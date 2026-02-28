@@ -1,5 +1,6 @@
 'use client'
 
+import { useSearchParams } from 'next/navigation';
 import { useEffect, useRef, useState } from 'react'
 import Globe from 'globe.gl'
 
@@ -30,6 +31,9 @@ export default function GlobeComponent() {
   const [adminPassword, setAdminPassword] = useState("");
   const [cityInput, setCityInput] = useState("");
   const [stableCities, setStableCities] = useState([]);
+
+  const searchParams = useSearchParams();
+  const isAdminMode = searchParams.get("admin") === "true";
 
   useEffect(() => {
     manualCitiesRef.current = manualCities
@@ -252,6 +256,7 @@ export default function GlobeComponent() {
   Intoxicating the World
 </div>
       {/* Admin Toggle */}
+      {isAdminMode && ( 
       <div
         onClick={() => {
           if (!isAuthenticated) {
@@ -272,7 +277,8 @@ export default function GlobeComponent() {
       >
         ⚙
       </div>
-      {showAdmin && (
+)}
+      {isAdminMode && showAdmin && (
   <div
     style={{
       position: 'fixed',
