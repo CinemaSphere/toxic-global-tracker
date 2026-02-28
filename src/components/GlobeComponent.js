@@ -54,13 +54,18 @@ export default function GlobeComponent() {
         globe.controls().addEventListener('change', () => {
           const altitude = globe.pointOfView().altitude;
         
-          cityElementsRef.current.forEach(label => {
-           /* if (altitude < 0.9) {
-              label.style.opacity = '1';
-            } else if (altitude > 1.2) {
-              label.style.opacity = '0';
-            }*/
-            label.style.opacity = altitude < 1 ? '1' : '0';
+          cityElementsRef.current.forEach(wrapper => {
+            const dot = wrapper.children[0];
+            const label = wrapper.children[1];
+        
+            if (label) {
+              label.style.opacity = altitude < 1 ? '1' : '0';
+            }
+        
+            if (dot) {
+              const scale = Math.max(0.5, 1.6 - altitude);
+              dot.style.transform = `scale(${scale})`;
+            }
           });
         });
           
@@ -209,13 +214,25 @@ export default function GlobeComponent() {
         wrapper.style.alignItems = 'center';
         wrapper.style.pointerEvents = 'none';
   
-        const dot = document.createElement('div');
+       /* const dot = document.createElement('div');
         dot.style.width = '8px';
         dot.style.height = '8px';
         dot.style.background = '#ffb703';
         dot.style.borderRadius = '50%';
-        dot.style.boxShadow = '0 0 6px rgba(255,183,3,0.8)';
-  
+        dot.style.boxShadow = '0 0 6px rgba(255,183,3,0.8)'; */
+
+        const dot = document.createElement('div');
+        dot.className = 'city-dot';
+        dot.style.border = '1px solid rgba(255,255,255,0.3)';
+
+        dot.style.width = '6px';
+        dot.style.height = '6px';
+        dot.style.background = '#ffb703';
+        dot.style.borderRadius = '50%';
+        dot.style.boxShadow = 'none';
+        
+        
+
         const label = document.createElement('div');
         label.innerText = d.city;
         label.style.fontSize = '10px';
@@ -228,7 +245,7 @@ export default function GlobeComponent() {
         wrapper.appendChild(dot);
         wrapper.appendChild(label);
   
-        cityElementsRef.current.push(label);
+        cityElementsRef.current.push(wrapper);
   
         return wrapper;
       });
