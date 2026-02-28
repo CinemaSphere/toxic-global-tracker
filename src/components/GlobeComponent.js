@@ -33,7 +33,8 @@ export default function GlobeComponent() {
   const [stableCities, setStableCities] = useState([]);
 
   const searchParams = useSearchParams();
-  const isAdminMode = searchParams.get("admin") === "true";
+  /* const isAdminMode = searchParams.get("admin") === "true"; */
+  const isAdminMode = searchParams.get("access") === "toxic8473";
 
   useEffect(() => {
     manualCitiesRef.current = manualCities
