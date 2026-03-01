@@ -1,37 +1,80 @@
-import fs from "fs";
-import path from "path";
+import { NextResponse } from "next/server";
 import { cookies } from "next/headers";
 
 export async function POST(req) {
   try {
     const body = await req.json();
 
-    // 🔒 Cookie-based admin check
+    // 🔐 Check admin cookie
     const cookieStore = await cookies();
     const isAdmin = cookieStore.get("admin_auth");
 
     if (!isAdmin || isAdmin.value !== "true") {
-      return Response.json({ success: false }, { status: 401 });
+      return NextResponse.json({ success: false }, { status: 401 });
     }
 
-    const filePath = path.join(process.cwd(), "public", "bookingData.json");
+    const { city, country } = body;
 
-    if (!fs.existsSync(filePath)) {
-      return Response.json({ success: false });
-    }
+    const owner = process.env.GITHUB_OWNER;
+    const repo = process.env.GITHUB_REPO;
+    const token = process.env.GITHUB_TOKEN;
 
-    const raw = fs.readFileSync(filePath);
-    const existing = JSON.parse(raw);
+    const filePath = "public/bookingData.json";
 
-    const updated = existing.filter(
-      c => !(c.city === body.city && c.country === body.country)
+    // 1️⃣ Fetch current file from GitHub
+    const fileRes = await fetch(
+      `https://api.github.com/repos/${owner}/${repo}/contents/${filePath}`,
+      {
+        headers: {
+          Authorization: `Bearer ${token}`,
+          Accept: "application/vnd.github+json",
+        },
+      }
     );
 
-    fs.writeFileSync(filePath, JSON.stringify(updated, null, 2));
+    if (!fileRes.ok) {
+      return NextResponse.json({ success: false, error: "GitHub fetch failed" }, { status: 500 });
+    }
 
-    return Response.json({ success: true });
+    const fileData = await fileRes.json();
+
+    const content = Buffer.from(fileData.content, "base64").toString("utf8");
+    const existing = JSON.parse(content);
+
+    // 2️⃣ Remove matching city
+    const updated = existing.filter(
+      (c) => !(c.city === city && c.country === country)
+    );
+
+    const updatedContent = Buffer.from(
+      JSON.stringify(updated, null, 2)
+    ).toString("base64");
+
+    // 3️⃣ Update GitHub file
+    const updateRes = await fetch(
+      `https://api.github.com/repos/${owner}/${repo}/contents/${filePath}`,
+      {
+        method: "PUT",
+        headers: {
+          Authorization: `Bearer ${token}`,
+          Accept: "application/vnd.github+json",
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          message: `Remove city ${city}`,
+          content: updatedContent,
+          sha: fileData.sha,
+        }),
+      }
+    );
+
+    if (!updateRes.ok) {
+      return NextResponse.json({ success: false, error: "GitHub update failed" }, { status: 500 });
+    }
+
+    return NextResponse.json({ success: true });
 
   } catch (error) {
-    return Response.json({ success: false, error: error.message });
+    return NextResponse.json({ success: false, error: error.message }, { status: 500 });
   }
 }
