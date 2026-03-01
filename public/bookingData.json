@@ -298,5 +298,11 @@
     "country": "IND",
     "lat": 12.9767936,
     "lng": 77.590082
+  },
+  {
+    "city": "Chennai",
+    "country": "IND",
+    "lat": 13.0836939,
+    "lng": 80.270186
   }
 ]
