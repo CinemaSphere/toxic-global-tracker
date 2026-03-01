@@ -274,5 +274,11 @@
     "country": "GBR",
     "lat": 51.4816546,
     "lng": -3.1791934
+  },
+  {
+    "city": "Bengaluru",
+    "country": "IND",
+    "lat": 12.9767936,
+    "lng": 77.590082
   }
 ]
