@@ -422,7 +422,12 @@ export default function GlobeComponent() {
               method: "POST",
               headers: { "Content-Type": "application/json" },
               body: JSON.stringify({
-                city: cityName,
+                city:
+                  result.address.city ||
+                  result.address.town ||
+                  result.address.village ||
+                  result.address.municipality ||
+                  cityName.split(',')[0].trim(),
                 country: iso3,
                 lat: parseFloat(result.lat),
                 lng: parseFloat(result.lon)
