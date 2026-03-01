@@ -129,7 +129,7 @@ export default function GlobeComponent() {
   }
 
   function loadCityData() {
-    fetch('/bookingData.json')
+    fetch('/bookingData.json', { cache: 'no-store' })
       .then(res => res.json())
       .then(cities => {
   
@@ -426,7 +426,13 @@ export default function GlobeComponent() {
             })
 
             setCityInput("");
+            previousCitiesRef.current = null;
+
             await loadCityData();
+            
+            setTimeout(() => {
+              loadCityData();
+            }, 1500);
           }}
         >
           Add City
