@@ -1,41 +1,81 @@
-import fs from "fs";
-import path from "path";
-import { cookies } from "next/headers";
-
+import { NextResponse } from "next/server";
 
 export async function POST(req) {
   try {
     const body = await req.json();
 
-    const cookieStore = await cookies();
-        const isAdmin = cookieStore.get("admin_auth");
-
-        if (!isAdmin || isAdmin.value !== "true") {
-        return Response.json({ success: false }, { status: 401 });
-        }
-
-    const filePath = path.join(process.cwd(), "public", "bookingData.json");
-
-    let existing = [];
-
-    if (fs.existsSync(filePath)) {
-      const raw = fs.readFileSync(filePath);
-      existing = JSON.parse(raw);
+    // 🔐 Check admin cookie
+    const isAdmin = body.secret === process.env.ADMIN_PASSWORD;
+    if (!isAdmin) {
+      return NextResponse.json({ success: false }, { status: 401 });
     }
 
+    const { city, country, lat, lng } = body;
+
+    const owner = process.env.GITHUB_OWNER;
+    const repo = process.env.GITHUB_REPO;
+    const token = process.env.GITHUB_TOKEN;
+
+    const filePath = "public/bookingData.json";
+
+    // 1️⃣ Fetch current file from GitHub
+    const fileRes = await fetch(
+      `https://api.github.com/repos/${owner}/${repo}/contents/${filePath}`,
+      {
+        headers: {
+          Authorization: `Bearer ${token}`,
+          Accept: "application/vnd.github+json",
+        },
+      }
+    );
+
+    if (!fileRes.ok) {
+      return NextResponse.json({ success: false, error: "GitHub fetch failed" }, { status: 500 });
+    }
+
+    const fileData = await fileRes.json();
+
+    const content = Buffer.from(fileData.content, "base64").toString("utf8");
+    const existing = JSON.parse(content);
+
+    // 2️⃣ Prevent duplicate
     const alreadyExists = existing.some(
-      c => c.city === body.city && c.country === body.country
+      (c) => c.city === city && c.country === country
     );
 
     if (!alreadyExists) {
-      existing.push(body);
+      existing.push({ city, country, lat, lng });
     }
 
-    fs.writeFileSync(filePath, JSON.stringify(existing, null, 2));
+    const updatedContent = Buffer.from(
+      JSON.stringify(existing, null, 2)
+    ).toString("base64");
 
-    return Response.json({ success: true });
+    // 3️⃣ Update file in GitHub
+    const updateRes = await fetch(
+      `https://api.github.com/repos/${owner}/${repo}/contents/${filePath}`,
+      {
+        method: "PUT",
+        headers: {
+          Authorization: `Bearer ${token}`,
+          Accept: "application/vnd.github+json",
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          message: `Add city ${city}`,
+          content: updatedContent,
+          sha: fileData.sha,
+        }),
+      }
+    );
+
+    if (!updateRes.ok) {
+      return NextResponse.json({ success: false, error: "GitHub update failed" }, { status: 500 });
+    }
+
+    return NextResponse.json({ success: true });
 
   } catch (error) {
-    return Response.json({ success: false, error: error.message });
+    return NextResponse.json({ success: false, error: error.message }, { status: 500 });
   }
 }
