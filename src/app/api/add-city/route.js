@@ -1,12 +1,15 @@
 import { NextResponse } from "next/server";
+import { cookies } from "next/headers";
 
 export async function POST(req) {
   try {
     const body = await req.json();
 
     // 🔐 Check admin cookie
-    const isAdmin = body.secret === process.env.ADMIN_PASSWORD;
-    if (!isAdmin) {
+    const cookieStore = await cookies();
+    const isAdmin = cookieStore.get("admin_auth");
+
+    if (!isAdmin || isAdmin.value !== "true") {
       return NextResponse.json({ success: false }, { status: 401 });
     }
 
@@ -38,7 +41,7 @@ export async function POST(req) {
     const content = Buffer.from(fileData.content, "base64").toString("utf8");
     const existing = JSON.parse(content);
 
-    // 2️⃣ Prevent duplicate
+    // Prevent duplicates
     const alreadyExists = existing.some(
       (c) => c.city === city && c.country === country
     );
@@ -51,7 +54,7 @@ export async function POST(req) {
       JSON.stringify(existing, null, 2)
     ).toString("base64");
 
-    // 3️⃣ Update file in GitHub
+    // 2️⃣ Update GitHub file
     const updateRes = await fetch(
       `https://api.github.com/repos/${owner}/${repo}/contents/${filePath}`,
       {
