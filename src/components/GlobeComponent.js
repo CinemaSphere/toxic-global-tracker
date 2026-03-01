@@ -129,10 +129,12 @@ export default function GlobeComponent() {
   }
 
   function loadCityData() {
-    fetch('https://raw.githubusercontent.com/CinemaSphere/toxic-global-tracker/main/public/bookingData.json', { cache: 'no-store' })
+    fetch('https://api.github.com/repos/CinemaSphere/toxic-global-tracker/contents/public/bookingData.json')
       .then(res => res.json())
-      .then(cities => {
-  
+      .then(data => {
+
+        const cities = JSON.parse(atob(data.content));
+
         setFileCities(cities);
         setStableCities(cities);
   
