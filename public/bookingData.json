@@ -282,9 +282,46 @@
     "lng": 76.7275477
   },
   {
+
     "city": "Bengaluru",
     "country": "IND",
     "lat": 12.9767936,
     "lng": 77.590082
+  },
+  {
+    "city": "San Jose",
+    "country": "USA",
+    "lat": 37.3382,
+    "lng": -121.8863
+  },
+  {
+    "city": "Sunnyvale",
+    "country": "USA",
+    "lat": 37.3688,
+    "lng": -122.0363
+  },
+  {
+    "city": "Cupertino",
+    "country": "USA",
+    "lat": 37.3229,
+    "lng": -122.0322
+  },
+  {
+    "city": "Santa Clara",
+    "country": "USA",
+    "lat": 37.3541,
+    "lng": -121.9552
+  },
+  {
+    "city": "Mountain View",
+    "country": "USA",
+    "lat": 37.3861,
+    "lng": -122.0839
+  },
+  {
+    "city": "Denver",
+    "country": "USA",
+    "lat": 39.7392,
+    "lng": -104.9903
   }
 ]
