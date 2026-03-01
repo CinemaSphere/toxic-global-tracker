@@ -148,7 +148,7 @@ export default function GlobeComponent() {
           )
         }
   
-        previousCitiesRef.current = cities
+        
   
         setStats({
           cities: cities.length,
@@ -195,6 +195,8 @@ export default function GlobeComponent() {
   
           focusOnCity(newest)
         }
+        previousCitiesRef.current = cities;
+
       })
       .catch(err => console.error('JSON load error:', err))
   }
