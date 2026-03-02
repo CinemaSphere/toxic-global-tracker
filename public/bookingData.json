@@ -856,5 +856,11 @@
     "country": "USA",
     "lat": 43.3260376,
     "lng": -71.6854725
+  },
+  {
+    "city": "Burlington",
+    "country": "USA",
+    "lat": 39.9325409,
+    "lng": -74.7226665
   }
 ]
