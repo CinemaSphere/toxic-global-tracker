@@ -322,5 +322,11 @@
     "country": "GBR",
     "lat": 52.4796992,
     "lng": -1.9026911
+  },
+  {
+    "city": "Bradford",
+    "country": "GBR",
+    "lat": 53.7944229,
+    "lng": -1.7519186
   }
 ]
