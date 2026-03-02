@@ -394,5 +394,11 @@
     "country": "GBR",
     "lat": 52.5725769,
     "lng": -0.2427336
+  },
+  {
+    "city": "Plymouth",
+    "country": "GBR",
+    "lat": 50.3714122,
+    "lng": -4.1424451
   }
 ]
