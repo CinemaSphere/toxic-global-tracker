@@ -772,5 +772,11 @@
     "country": "USA",
     "lat": 34.1206564,
     "lng": -84.0043513
+  },
+  {
+    "city": "Sandy Springs",
+    "country": "USA",
+    "lat": 33.9242688,
+    "lng": -84.3785379
   }
 ]
