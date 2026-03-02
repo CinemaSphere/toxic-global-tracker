@@ -658,5 +658,11 @@
     "country": "USA",
     "lat": 38.2493581,
     "lng": -122.039966
+  },
+  {
+    "city": "Long Beach",
+    "country": "USA",
+    "lat": 33.7690164,
+    "lng": -118.191604
   }
 ]
