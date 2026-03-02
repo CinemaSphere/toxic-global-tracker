@@ -328,5 +328,11 @@
     "country": "GBR",
     "lat": 53.7944229,
     "lng": -1.7519186
+  },
+  {
+    "city": "Brighton",
+    "country": "GBR",
+    "lat": 50.8214626,
+    "lng": -0.1400561
   }
 ]
