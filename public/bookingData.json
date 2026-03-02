@@ -604,5 +604,11 @@
     "country": "DEU",
     "lat": 49.872775,
     "lng": 8.651177
+  },
+  {
+    "city": "Dresden",
+    "country": "DEU",
+    "lat": 51.0493286,
+    "lng": 13.7381437
   }
 ]
