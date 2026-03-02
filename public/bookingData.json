@@ -400,5 +400,11 @@
     "country": "GBR",
     "lat": 50.3714122,
     "lng": -4.1424451
+  },
+  {
+    "city": "Sheffield",
+    "country": "GBR",
+    "lat": 53.3806626,
+    "lng": -1.4702278
   }
 ]
