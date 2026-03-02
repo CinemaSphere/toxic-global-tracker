@@ -532,5 +532,11 @@
     "country": "GBR",
     "lat": 55.861155,
     "lng": -4.2501687
+  },
+  {
+    "city": "City of Edinburgh",
+    "country": "GBR",
+    "lat": 55.9533456,
+    "lng": -3.1883749
   }
 ]
