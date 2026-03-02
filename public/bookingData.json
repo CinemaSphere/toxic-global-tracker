@@ -820,5 +820,11 @@
     "country": "USA",
     "lat": 38.0464066,
     "lng": -84.4970393
+  },
+  {
+    "city": "Frederick",
+    "country": "USA",
+    "lat": 39.415779,
+    "lng": -77.4127562
   }
 ]
