@@ -448,5 +448,11 @@
     "country": "GBR",
     "lat": 51.5702375,
     "lng": 0.4583573
+  },
+  {
+    "city": "Ipswich",
+    "country": "GBR",
+    "lat": 52.0579324,
+    "lng": 1.1528095
   }
 ]
