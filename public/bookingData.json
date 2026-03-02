@@ -406,5 +406,11 @@
     "country": "GBR",
     "lat": 53.3806626,
     "lng": -1.4702278
+  },
+  {
+    "city": "Stoke-on-Trent",
+    "country": "GBR",
+    "lat": 53.0162014,
+    "lng": -2.1812607
   }
 ]
