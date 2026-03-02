@@ -358,5 +358,11 @@
     "country": "GBR",
     "lat": 52.6362,
     "lng": -1.1331969
+  },
+  {
+    "city": "Liverpool",
+    "country": "GBR",
+    "lat": 53.4071991,
+    "lng": -2.99168
   }
 ]
