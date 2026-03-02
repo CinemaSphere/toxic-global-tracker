@@ -622,5 +622,11 @@
     "country": "USA",
     "lat": 33.3062031,
     "lng": -111.841185
+  },
+  {
+    "city": "Flagstaff",
+    "country": "USA",
+    "lat": 35.1987522,
+    "lng": -111.651822
   }
 ]
