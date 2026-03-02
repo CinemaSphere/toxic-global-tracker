@@ -364,5 +364,11 @@
     "country": "GBR",
     "lat": 53.4071991,
     "lng": -2.99168
+  },
+  {
+    "city": "Greater London",
+    "country": "GBR",
+    "lat": 51.5074456,
+    "lng": -0.1277653
   }
 ]
