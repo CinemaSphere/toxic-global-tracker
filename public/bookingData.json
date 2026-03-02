@@ -352,5 +352,11 @@
     "country": "GBR",
     "lat": 53.7974185,
     "lng": -1.5437941
+  },
+  {
+    "city": "Leicester",
+    "country": "GBR",
+    "lat": 52.6362,
+    "lng": -1.1331969
   }
 ]
