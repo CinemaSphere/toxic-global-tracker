@@ -616,5 +616,11 @@
     "country": "DEU",
     "lat": 49.0068705,
     "lng": 8.4034195
+  },
+  {
+    "city": "Chandler",
+    "country": "USA",
+    "lat": 33.3062031,
+    "lng": -111.841185
   }
 ]
