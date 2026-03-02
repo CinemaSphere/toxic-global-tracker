@@ -282,7 +282,6 @@
     "lng": 76.7275477
   },
   {
-
     "city": "Bengaluru",
     "country": "IND",
     "lat": 12.9767936,
@@ -323,5 +322,11 @@
     "country": "USA",
     "lat": 39.7392,
     "lng": -104.9903
+  },
+  {
+    "city": "Eastbourne",
+    "country": "GBR",
+    "lat": 50.7664372,
+    "lng": 0.2781546
   }
 ]
