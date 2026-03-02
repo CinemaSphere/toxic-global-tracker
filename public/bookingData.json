@@ -670,5 +670,11 @@
     "country": "USA",
     "lat": 34.065846,
     "lng": -117.64843
+  },
+  {
+    "city": "San Marcos",
+    "country": "USA",
+    "lat": 33.1352995,
+    "lng": -117.1743395
   }
 ]
