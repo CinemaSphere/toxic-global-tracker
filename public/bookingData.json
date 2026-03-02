@@ -958,5 +958,11 @@
     "country": "USA",
     "lat": 40.2663107,
     "lng": -76.8861122
+  },
+  {
+    "city": "Warrington Township",
+    "country": "USA",
+    "lat": 40.2492741,
+    "lng": -75.1340604
   }
 ]
