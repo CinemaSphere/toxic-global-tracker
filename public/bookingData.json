@@ -496,5 +496,11 @@
     "country": "GBR",
     "lat": 51.3883811,
     "lng": 0.504925
+  },
+  {
+    "city": "Dacorum",
+    "country": "GBR",
+    "lat": 51.7511784,
+    "lng": -0.472528
   }
 ]
