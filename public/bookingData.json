@@ -778,5 +778,11 @@
     "country": "USA",
     "lat": 33.9242688,
     "lng": -84.3785379
+  },
+  {
+    "city": "Bolingbrook",
+    "country": "USA",
+    "lat": 41.7003302,
+    "lng": -88.0717708
   }
 ]
