@@ -1030,5 +1030,11 @@
     "country": "USA",
     "lat": 42.36837,
     "lng": -83.3527097
+  },
+  {
+    "city": "City of Rochester",
+    "country": "USA",
+    "lat": 43.157285,
+    "lng": -77.615214
   }
 ]
