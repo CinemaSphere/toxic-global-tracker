@@ -844,5 +844,11 @@
     "country": "USA",
     "lat": 42.3656347,
     "lng": -71.1040018
+  },
+  {
+    "city": "Columbia",
+    "country": "USA",
+    "lat": 38.951883,
+    "lng": -92.3337366
   }
 ]
