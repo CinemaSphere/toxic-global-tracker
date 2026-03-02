@@ -832,5 +832,11 @@
     "country": "USA",
     "lat": 39.0817985,
     "lng": -77.1516844
+  },
+  {
+    "city": "Bellingham",
+    "country": "USA",
+    "lat": 42.0869493,
+    "lng": -71.4746436
   }
 ]
