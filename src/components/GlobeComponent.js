@@ -133,7 +133,12 @@ export default function GlobeComponent() {
       .then(res => res.json())
       .then(data => {
 
-        const cities = JSON.parse(atob(data.content));
+        //const cities = JSON.parse(atob(data.content));
+
+        const decoded = decodeURIComponent(
+          escape(atob(data.content))
+        );
+        const cities = JSON.parse(decoded);
 
         setFileCities(cities);
         setStableCities(cities);
