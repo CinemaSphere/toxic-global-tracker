@@ -616,5 +616,11 @@
     "country": "DEU",
     "lat": 49.0068705,
     "lng": 8.4034195
+  },
+  {
+    "city": "Bengaluru",
+    "country": "IND",
+    "lat": 12.9767936,
+    "lng": 77.590082
   }
 ]
