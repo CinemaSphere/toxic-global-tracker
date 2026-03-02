@@ -544,5 +544,11 @@
     "country": "GBR",
     "lat": 56.4605938,
     "lng": -2.97019
+  },
+  {
+    "city": "Aberdeen City",
+    "country": "GBR",
+    "lat": 57.1482429,
+    "lng": -2.0928095
   }
 ]
