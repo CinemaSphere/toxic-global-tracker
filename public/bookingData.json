@@ -442,5 +442,11 @@
     "country": "GBR",
     "lat": 51.148555,
     "lng": 0.8722566
+  },
+  {
+    "city": "Basildon",
+    "country": "GBR",
+    "lat": 51.5702375,
+    "lng": 0.4583573
   }
 ]
