@@ -790,5 +790,11 @@
     "country": "USA",
     "lat": 42.0289319,
     "lng": -87.8122348
+  },
+  {
+    "city": "South Barrington",
+    "country": "USA",
+    "lat": 42.093889,
+    "lng": -88.1342353
   }
 ]
