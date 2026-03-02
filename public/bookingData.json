@@ -904,5 +904,11 @@
     "country": "USA",
     "lat": 41.7065539,
     "lng": -73.9283672
+  },
+  {
+    "city": "Village of Westbury",
+    "country": "USA",
+    "lat": 40.7556561,
+    "lng": -73.5876273
   }
 ]
