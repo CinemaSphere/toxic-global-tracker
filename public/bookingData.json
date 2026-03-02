@@ -982,5 +982,11 @@
     "country": "USA",
     "lat": 38.762132,
     "lng": -77.1444093
+  },
+  {
+    "city": "Glen Allen",
+    "country": "USA",
+    "lat": 37.6659781,
+    "lng": -77.506374
   }
 ]
