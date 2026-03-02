@@ -574,5 +574,11 @@
     "country": "DEU",
     "lat": 51.2254018,
     "lng": 6.7763137
+  },
+  {
+    "city": "Frankfurt am Main",
+    "country": "DEU",
+    "lat": 50.1106444,
+    "lng": 8.6820917
   }
 ]
