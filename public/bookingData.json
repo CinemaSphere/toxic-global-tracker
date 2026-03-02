@@ -1018,5 +1018,11 @@
     "country": "USA",
     "lat": 42.8864163,
     "lng": -78.8781493
+  },
+  {
+    "city": "Willoughby",
+    "country": "USA",
+    "lat": 41.6397696,
+    "lng": -81.4065011
   }
 ]
