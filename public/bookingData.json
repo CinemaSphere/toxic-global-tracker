@@ -526,5 +526,11 @@
     "country": "GBR",
     "lat": 55.9991959,
     "lng": -3.784376
+  },
+  {
+    "city": "Glasgow",
+    "country": "GBR",
+    "lat": 55.861155,
+    "lng": -4.2501687
   }
 ]
