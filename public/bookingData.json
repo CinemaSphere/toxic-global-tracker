@@ -682,5 +682,11 @@
     "country": "USA",
     "lat": 37.9577016,
     "lng": -121.290779
+  },
+  {
+    "city": "Simi Valley",
+    "country": "USA",
+    "lat": 34.2677404,
+    "lng": -118.7538071
   }
 ]
