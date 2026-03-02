@@ -436,5 +436,11 @@
     "country": "GBR",
     "lat": 52.3305093,
     "lng": -0.1843514
+  },
+  {
+    "city": "Ashford",
+    "country": "GBR",
+    "lat": 51.148555,
+    "lng": 0.8722566
   }
 ]
