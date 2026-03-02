@@ -610,5 +610,11 @@
     "country": "DEU",
     "lat": 51.0493286,
     "lng": 13.7381437
+  },
+  {
+    "city": "Karlsruhe",
+    "country": "DEU",
+    "lat": 49.0068705,
+    "lng": 8.4034195
   }
 ]
