@@ -376,5 +376,11 @@
     "country": "GBR",
     "lat": 52.0406502,
     "lng": -0.7594092
+  },
+  {
+    "city": "Newcastle upon Tyne",
+    "country": "GBR",
+    "lat": 54.9738474,
+    "lng": -1.6131572
   }
 ]
