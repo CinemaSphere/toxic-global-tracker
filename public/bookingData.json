@@ -598,5 +598,11 @@
     "country": "DEU",
     "lat": 50.7352621,
     "lng": 7.1024635
+  },
+  {
+    "city": "Darmstadt",
+    "country": "DEU",
+    "lat": 49.872775,
+    "lng": 8.651177
   }
 ]
