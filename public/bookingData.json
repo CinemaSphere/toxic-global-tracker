@@ -490,5 +490,11 @@
     "country": "GBR",
     "lat": 51.4514953,
     "lng": -0.9836342
+  },
+  {
+    "city": "Rochester",
+    "country": "GBR",
+    "lat": 51.3883811,
+    "lng": 0.504925
   }
 ]
