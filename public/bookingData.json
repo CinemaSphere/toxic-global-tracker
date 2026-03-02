@@ -898,5 +898,11 @@
     "country": "USA",
     "lat": 40.5792701,
     "lng": -74.4115401
+  },
+  {
+    "city": "City of Poughkeepsie",
+    "country": "USA",
+    "lat": 41.7065539,
+    "lng": -73.9283672
   }
 ]
