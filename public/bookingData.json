@@ -748,5 +748,11 @@
     "country": "USA",
     "lat": 27.8428025,
     "lng": -82.6995444
+  },
+  {
+    "city": "Pompano Beach",
+    "country": "USA",
+    "lat": 26.2378597,
+    "lng": -80.1247667
   }
 ]
