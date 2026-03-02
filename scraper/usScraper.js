@@ -92,10 +92,23 @@ async function checkCity(city) {
         }
       });
       const data = await res.json();
-
+    /*
       if (data.hasShowtimes === true) {
         return true;
       }
+
+      */
+
+      if (data.hasShowtimes === true) {
+        const theaters = data.theaterShowtimes?.theaters || [];
+      
+        const validTheater = theaters.some(t => t.distance <= 1.0);
+      
+        if (validTheater) {
+          return true;
+        }
+      }
+
     } catch (err) {
       console.log(`Error checking ${city.city}:`, err.message);
     }
