@@ -862,5 +862,11 @@
     "country": "USA",
     "lat": 39.9325409,
     "lng": -74.7226665
+  },
+  {
+    "city": "City of Albany",
+    "country": "USA",
+    "lat": 42.6511674,
+    "lng": -73.754968
   }
 ]
