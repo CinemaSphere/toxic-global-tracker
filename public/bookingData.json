@@ -472,5 +472,11 @@
     "country": "GBR",
     "lat": 51.6553875,
     "lng": -0.3957425
+  },
+  {
+    "city": "Stevenage",
+    "country": "GBR",
+    "lat": 51.9016663,
+    "lng": -0.2027155
   }
 ]
