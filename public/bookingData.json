@@ -550,5 +550,11 @@
     "country": "GBR",
     "lat": 57.1482429,
     "lng": -2.0928095
+  },
+  {
+    "city": "Wellington",
+    "country": "NZL",
+    "lat": -41.2887953,
+    "lng": 174.7772114
   }
 ]
