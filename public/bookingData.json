@@ -880,5 +880,11 @@
     "country": "USA",
     "lat": 42.4374175,
     "lng": -76.5483724
+  },
+  {
+    "city": "North Brunswick Township",
+    "country": "USA",
+    "lat": 40.4539249,
+    "lng": -74.476545
   }
 ]
