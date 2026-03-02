@@ -568,5 +568,11 @@
     "country": "DEU",
     "lat": 53.550341,
     "lng": 10.000654
+  },
+  {
+    "city": "Düsseldorf",
+    "country": "DEU",
+    "lat": 51.2254018,
+    "lng": 6.7763137
   }
 ]
