@@ -886,5 +886,11 @@
     "country": "USA",
     "lat": 40.4539249,
     "lng": -74.476545
+  },
+  {
+    "city": "Secaucus",
+    "country": "USA",
+    "lat": 40.7899291,
+    "lng": -74.0566735
   }
 ]
