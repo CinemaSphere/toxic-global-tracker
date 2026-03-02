@@ -340,5 +340,11 @@
     "country": "GBR",
     "lat": 52.9233008,
     "lng": -1.4765491
+  },
+  {
+    "city": "Gloucester",
+    "country": "GBR",
+    "lat": 51.8653705,
+    "lng": -2.2458192
   }
 ]
