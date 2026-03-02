@@ -892,5 +892,11 @@
     "country": "USA",
     "lat": 40.7899291,
     "lng": -74.0566735
+  },
+  {
+    "city": "South Plainfield",
+    "country": "USA",
+    "lat": 40.5792701,
+    "lng": -74.4115401
   }
 ]
