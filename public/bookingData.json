@@ -826,5 +826,11 @@
     "country": "USA",
     "lat": 39.415779,
     "lng": -77.4127562
+  },
+  {
+    "city": "Rockville",
+    "country": "USA",
+    "lat": 39.0817985,
+    "lng": -77.1516844
   }
 ]
