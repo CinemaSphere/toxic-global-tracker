@@ -430,5 +430,11 @@
     "country": "GBR",
     "lat": 53.9656579,
     "lng": -1.0743052
+  },
+  {
+    "city": "Huntingdonshire",
+    "country": "GBR",
+    "lat": 52.3305093,
+    "lng": -0.1843514
   }
 ]
