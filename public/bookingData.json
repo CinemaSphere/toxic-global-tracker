@@ -952,5 +952,11 @@
     "country": "USA",
     "lat": 40.0064958,
     "lng": -75.7032742
+  },
+  {
+    "city": "Harrisburg",
+    "country": "USA",
+    "lat": 40.2663107,
+    "lng": -76.8861122
   }
 ]
