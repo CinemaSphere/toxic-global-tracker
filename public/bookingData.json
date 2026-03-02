@@ -1006,5 +1006,11 @@
     "country": "USA",
     "lat": 47.6694141,
     "lng": -122.1238767
+  },
+  {
+    "city": "Bengaluru",
+    "country": "IND",
+    "lat": 12.9767936,
+    "lng": 77.590082
   }
 ]
