@@ -976,5 +976,11 @@
     "country": "USA",
     "lat": 39.0437192,
     "lng": -77.4874899
+  },
+  {
+    "city": "Kingstowne",
+    "country": "USA",
+    "lat": 38.762132,
+    "lng": -77.1444093
   }
 ]
