@@ -742,5 +742,11 @@
     "country": "USA",
     "lat": 29.1871986,
     "lng": -82.1400923
+  },
+  {
+    "city": "Pinellas Park",
+    "country": "USA",
+    "lat": 27.8428025,
+    "lng": -82.6995444
   }
 ]
