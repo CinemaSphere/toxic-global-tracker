@@ -874,5 +874,11 @@
     "country": "USA",
     "lat": 40.7622495,
     "lng": -73.3228592
+  },
+  {
+    "city": "Town of Ithaca",
+    "country": "USA",
+    "lat": 42.4374175,
+    "lng": -76.5483724
   }
 ]
