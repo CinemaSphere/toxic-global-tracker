@@ -700,5 +700,11 @@
     "country": "USA",
     "lat": 37.7021521,
     "lng": -121.9357918
+  },
+  {
+    "city": "Waterbury",
+    "country": "USA",
+    "lat": 41.5538091,
+    "lng": -73.0438362
   }
 ]
