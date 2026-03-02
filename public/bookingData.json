@@ -730,5 +730,11 @@
     "country": "USA",
     "lat": 26.640628,
     "lng": -81.8723084
+  },
+  {
+    "city": "Gainesville",
+    "country": "USA",
+    "lat": 29.6519684,
+    "lng": -82.3249846
   }
 ]
