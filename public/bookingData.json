@@ -382,5 +382,11 @@
     "country": "GBR",
     "lat": 54.9738474,
     "lng": -1.6131572
+  },
+  {
+    "city": "City of Nottingham",
+    "country": "GBR",
+    "lat": 52.9534193,
+    "lng": -1.1496461
   }
 ]
