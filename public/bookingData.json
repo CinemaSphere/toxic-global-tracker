@@ -910,5 +910,11 @@
     "country": "USA",
     "lat": 40.7556561,
     "lng": -73.5876273
+  },
+  {
+    "city": "Village of Williamsville",
+    "country": "USA",
+    "lat": 42.9637836,
+    "lng": -78.7377258
   }
 ]
