@@ -724,5 +724,11 @@
     "country": "USA",
     "lat": 28.6702526,
     "lng": -81.2084941
+  },
+  {
+    "city": "Fort Myers",
+    "country": "USA",
+    "lat": 26.640628,
+    "lng": -81.8723084
   }
 ]
