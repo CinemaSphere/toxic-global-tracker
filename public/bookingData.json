@@ -460,5 +460,11 @@
     "country": "GBR",
     "lat": 52.3726682,
     "lng": -1.2620038
+  },
+  {
+    "city": "Solihull",
+    "country": "GBR",
+    "lat": 52.4130189,
+    "lng": -1.7768935
   }
 ]
