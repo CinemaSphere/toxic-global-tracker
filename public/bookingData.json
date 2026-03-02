@@ -814,5 +814,11 @@
     "country": "USA",
     "lat": 37.6922361,
     "lng": -97.3375448
+  },
+  {
+    "city": "Lexington",
+    "country": "USA",
+    "lat": 38.0464066,
+    "lng": -84.4970393
   }
 ]
