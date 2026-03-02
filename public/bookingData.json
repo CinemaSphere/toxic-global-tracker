@@ -508,5 +508,11 @@
     "country": "GBR",
     "lat": 51.6317449,
     "lng": -0.75596
+  },
+  {
+    "city": "Middleton St George",
+    "country": "GBR",
+    "lat": 54.5094106,
+    "lng": -1.4247903
   }
 ]
