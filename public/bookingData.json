@@ -586,5 +586,11 @@
     "country": "DEU",
     "lat": 52.5173885,
     "lng": 13.3951309
+  },
+  {
+    "city": "Bayreuth",
+    "country": "DEU",
+    "lat": 49.9446345,
+    "lng": 11.5743543
   }
 ]
