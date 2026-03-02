@@ -868,5 +868,11 @@
     "country": "USA",
     "lat": 42.6511674,
     "lng": -73.754968
+  },
+  {
+    "city": "Deer Park",
+    "country": "USA",
+    "lat": 40.7622495,
+    "lng": -73.3228592
   }
 ]
