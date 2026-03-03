@@ -1126,5 +1126,11 @@
     "country": "USA",
     "lat": 38.8838856,
     "lng": -94.81887
+  },
+  {
+    "city": "Highland Village",
+    "country": "USA",
+    "lat": 33.091788,
+    "lng": -97.0466759
   }
 ]
