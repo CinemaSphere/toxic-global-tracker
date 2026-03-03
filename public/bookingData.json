@@ -1114,5 +1114,11 @@
     "country": "USA",
     "lat": 38.9997621,
     "lng": -77.0240371
+  },
+  {
+    "city": "City of New Rochelle",
+    "country": "USA",
+    "lat": 40.9115386,
+    "lng": -73.7826363
   }
 ]
