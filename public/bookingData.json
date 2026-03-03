@@ -1138,5 +1138,11 @@
     "country": "USA",
     "lat": 42.4858692,
     "lng": -83.1052028
+  },
+  {
+    "city": "Lawrenceville",
+    "country": "USA",
+    "lat": 33.9566391,
+    "lng": -83.9890066
   }
 ]
