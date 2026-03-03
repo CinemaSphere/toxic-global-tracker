@@ -1108,5 +1108,11 @@
     "country": "USA",
     "lat": 42.0262972,
     "lng": -87.7521069
+  },
+  {
+    "city": "Silver Spring",
+    "country": "USA",
+    "lat": 38.9997621,
+    "lng": -77.0240371
   }
 ]
