@@ -1132,5 +1132,11 @@
     "country": "USA",
     "lat": 33.091788,
     "lng": -97.0466759
+  },
+  {
+    "city": "Madison Heights",
+    "country": "USA",
+    "lat": 42.4858692,
+    "lng": -83.1052028
   }
 ]
