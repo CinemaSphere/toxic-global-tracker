@@ -1180,5 +1180,11 @@
     "country": "USA",
     "lat": 33.4709714,
     "lng": -81.9748429
+  },
+  {
+    "city": "Eden Prairie",
+    "country": "USA",
+    "lat": 44.8546856,
+    "lng": -93.470786
   }
 ]
