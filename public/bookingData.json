@@ -1228,5 +1228,11 @@
     "country": "GBR",
     "lat": 51.262826,
     "lng": -1.0861976
+  },
+  {
+    "city": "Northampton",
+    "country": "GBR",
+    "lat": 52.2343297,
+    "lng": -0.9028043
   }
 ]
