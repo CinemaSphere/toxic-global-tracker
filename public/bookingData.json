@@ -1192,5 +1192,11 @@
     "country": "DEU",
     "lat": 50.776351,
     "lng": 6.083862
+  },
+  {
+    "city": "Overland Park",
+    "country": "USA",
+    "lat": 38.9742502,
+    "lng": -94.6851702
   }
 ]
