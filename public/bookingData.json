@@ -1222,5 +1222,11 @@
     "country": "USA",
     "lat": 33.1976496,
     "lng": -96.6154471
+  },
+  {
+    "city": "Basingstoke and Deane",
+    "country": "GBR",
+    "lat": 51.262826,
+    "lng": -1.0861976
   }
 ]
