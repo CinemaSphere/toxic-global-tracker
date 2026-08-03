@@ -33,7 +33,15 @@ export async function POST(req) {
     );
 
     if (!fileRes.ok) {
-      return NextResponse.json({ success: false, error: "GitHub fetch failed" }, { status: 500 });
+      const err = await fileRes.text();
+    
+      return NextResponse.json(
+        {
+          success: false,
+          error: err,
+        },
+        { status: 500 }
+      );
     }
 
     const fileData = await fileRes.json();
