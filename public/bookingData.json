@@ -4,5 +4,11 @@
     "country": "USA",
     "lat": 34.1469416,
     "lng": -118.2478471
+  },
+  {
+    "city": "Los Angeles",
+    "country": "USA",
+    "lat": 34.0536909,
+    "lng": -118.242766
   }
 ]
