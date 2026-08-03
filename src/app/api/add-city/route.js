@@ -33,12 +33,10 @@ export async function POST(req) {
     );
 
     if (!fileRes.ok) {
-      const err = await fileRes.text();
-    
       return NextResponse.json(
         {
           success: false,
-          error: err,
+          error: "GitHub fetch failed",
         },
         { status: 500 }
       );
@@ -92,7 +90,7 @@ export async function POST(req) {
     return NextResponse.json(
       {
         success: false,
-        error: error.message,
+        error: "Internal server error",
       },
       { status: 500 }
     );
