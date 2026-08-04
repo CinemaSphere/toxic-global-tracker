@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 const MOVIE_ID = "244612";
-const RELEASE_DATES = ["2026-03-18", "2026-03-19"]; // timezone safe
+const RELEASE_DATES = ["2026-08-25", "2026-08-26"]; // timezone safe
 
 const usMetros = [
 
@@ -101,8 +101,11 @@ async function checkCity(city) {
 
       if (data.hasShowtimes === true) {
         const theaters = data.theaterShowtimes?.theaters || [];
+
       
-        const validTheater = theaters.some(t => t.distance <= 1.0);
+const validTheater = theaters.some(
+  t => t.city?.toLowerCase() === city.city.toLowerCase()
+);
       
         if (validTheater) {
           return true;
