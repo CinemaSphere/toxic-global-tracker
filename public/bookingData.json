@@ -22,5 +22,11 @@
     "country": "USA",
     "lat": 27.9449854,
     "lng": -82.4583107
+  },
+  {
+    "city": "Cleveland",
+    "country": "USA",
+    "lat": 41.4996574,
+    "lng": -81.6936772
   }
 ]
