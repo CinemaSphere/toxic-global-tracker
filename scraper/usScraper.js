@@ -166,9 +166,29 @@ const validTheater = theaters.some(
 async function run() {
   console.log("Checking US cities...");
 
+  const filePath = path.join(__dirname, "..", "public", "bookingData.json");
+
+  let existing = [];
+
+  if (fs.existsSync(filePath)) {
+    existing = JSON.parse(fs.readFileSync(filePath));
+  }
+
+  const alreadyLive = new Set(
+    existing
+      .filter(c => c.country === "USA")
+      .map(c => c.city.toLowerCase())
+  );
+
   const liveCities = [];
 
   for (const metro of usMetros) {
+
+    if (alreadyLive.has(metro.city.toLowerCase())) {
+      console.log(`⏩ Skipping ${metro.city} (already live)`);
+      continue;
+    }
+
     const isLive = await checkCity(metro);
 
     if (isLive) {
