@@ -28,5 +28,11 @@
     "country": "USA",
     "lat": 41.4996574,
     "lng": -81.6936772
+  },
+  {
+    "city": "Cleveland Heights",
+    "country": "USA",
+    "lat": 41.5200518,
+    "lng": -81.556235
   }
 ]
