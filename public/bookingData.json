@@ -40,5 +40,11 @@
     "country": "USA",
     "lat": 33.0136764,
     "lng": -96.6925096
+  },
+  {
+    "city": "Oklahoma City",
+    "country": "USA",
+    "lat": 35.4729886,
+    "lng": -97.5170536
   }
 ]
