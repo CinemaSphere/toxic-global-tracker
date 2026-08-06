@@ -136,5 +136,11 @@
     "country": "USA",
     "lat": 43.157285,
     "lng": -77.615214
+  },
+  {
+    "city": "Boca Raton",
+    "country": "USA",
+    "lat": 26.3586885,
+    "lng": -80.0830984
   }
 ]
