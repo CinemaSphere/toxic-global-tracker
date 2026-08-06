@@ -154,5 +154,11 @@
     "country": "USA",
     "lat": 29.6185669,
     "lng": -95.5377215
+  },
+  {
+    "city": "Pflugerville",
+    "country": "USA",
+    "lat": 30.4393696,
+    "lng": -97.6200043
   }
 ]
