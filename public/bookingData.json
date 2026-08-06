@@ -190,5 +190,11 @@
     "country": "USA",
     "lat": 42.3423259,
     "lng": -72.5891221
+  },
+  {
+    "city": "West Springfield",
+    "country": "USA",
+    "lat": 42.105237,
+    "lng": -72.6213712
   }
 ]
