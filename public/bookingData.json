@@ -106,5 +106,11 @@
     "country": "ESP",
     "lat": 39.8558913,
     "lng": -4.024265
+  },
+  {
+    "city": "Mountain View",
+    "country": "USA",
+    "lat": 37.3893889,
+    "lng": -122.0832101
   }
 ]
