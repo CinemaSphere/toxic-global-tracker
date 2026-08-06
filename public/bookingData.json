@@ -88,5 +88,11 @@
     "country": "USA",
     "lat": 39.6722812,
     "lng": -84.2521632
+  },
+  {
+    "city": "Cincinnati",
+    "country": "USA",
+    "lat": 39.1012809,
+    "lng": -84.5127405
   }
 ]
