@@ -82,5 +82,11 @@
     "country": "USA",
     "lat": 41.2222218,
     "lng": -73.0570603
+  },
+  {
+    "city": "West Carrollton",
+    "country": "USA",
+    "lat": 39.6722812,
+    "lng": -84.2521632
   }
 ]
