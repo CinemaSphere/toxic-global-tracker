@@ -142,5 +142,11 @@
     "country": "USA",
     "lat": 26.3586885,
     "lng": -80.0830984
+  },
+  {
+    "city": "Somerdale",
+    "country": "USA",
+    "lat": 39.8440027,
+    "lng": -75.0226691
   }
 ]
