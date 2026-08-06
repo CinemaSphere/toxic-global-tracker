@@ -52,5 +52,11 @@
     "country": "USA",
     "lat": 29.5351724,
     "lng": -95.1161564
+  },
+  {
+    "city": "Albuquerque",
+    "country": "USA",
+    "lat": 35.0841034,
+    "lng": -106.650985
   }
 ]
