@@ -226,5 +226,11 @@
     "country": "USA",
     "lat": 39.9622601,
     "lng": -83.0007065
+  },
+  {
+    "city": "Montgomery",
+    "country": "USA",
+    "lat": 32.3777111,
+    "lng": -86.3090775
   }
 ]
