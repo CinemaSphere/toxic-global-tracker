@@ -262,5 +262,11 @@
     "country": "USA",
     "lat": 40.5871782,
     "lng": -105.0770113
+  },
+  {
+    "city": "Louisville",
+    "country": "USA",
+    "lat": 38.2542376,
+    "lng": -85.759407
   }
 ]
