@@ -196,5 +196,11 @@
     "country": "USA",
     "lat": 42.105237,
     "lng": -72.6213712
+  },
+  {
+    "city": "Grapevine",
+    "country": "USA",
+    "lat": 32.9337381,
+    "lng": -97.0788754
   }
 ]
