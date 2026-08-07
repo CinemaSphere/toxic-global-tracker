@@ -286,5 +286,11 @@
     "country": "USA",
     "lat": 34.729847,
     "lng": -86.5859011
+  },
+  {
+    "city": "Manchester",
+    "country": "USA",
+    "lat": 41.7834017,
+    "lng": -72.5231973
   }
 ]
