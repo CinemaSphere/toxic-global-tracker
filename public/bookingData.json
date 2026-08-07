@@ -280,5 +280,11 @@
     "country": "USA",
     "lat": 29.5639758,
     "lng": -95.2864299
+  },
+  {
+    "city": "Huntsville",
+    "country": "USA",
+    "lat": 34.729847,
+    "lng": -86.5859011
   }
 ]
