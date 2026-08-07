@@ -292,5 +292,11 @@
     "country": "USA",
     "lat": 41.7834017,
     "lng": -72.5231973
+  },
+  {
+    "city": "Baton Rouge",
+    "country": "USA",
+    "lat": 30.4494155,
+    "lng": -91.1869659
   }
 ]
