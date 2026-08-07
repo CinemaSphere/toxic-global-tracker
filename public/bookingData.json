@@ -220,5 +220,11 @@
     "country": "USA",
     "lat": 37.6904826,
     "lng": -122.47267
+  },
+  {
+    "city": "Columbus",
+    "country": "USA",
+    "lat": 39.9622601,
+    "lng": -83.0007065
   }
 ]
