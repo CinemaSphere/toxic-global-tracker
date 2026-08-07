@@ -232,5 +232,11 @@
     "country": "USA",
     "lat": 32.3777111,
     "lng": -86.3090775
+  },
+  {
+    "city": "Greater London",
+    "country": "GBR",
+    "lat": 51.4781974,
+    "lng": -0.2968861
   }
 ]
