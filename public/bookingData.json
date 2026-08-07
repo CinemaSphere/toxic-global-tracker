@@ -250,5 +250,11 @@
     "country": "USA",
     "lat": 42.241051,
     "lng": -83.6117646
+  },
+  {
+    "city": "Valley View",
+    "country": "USA",
+    "lat": 41.3878312,
+    "lng": -81.6045685
   }
 ]
