@@ -214,5 +214,11 @@
     "country": "USA",
     "lat": 37.3361663,
     "lng": -121.890591
+  },
+  {
+    "city": "Daly City",
+    "country": "USA",
+    "lat": 37.6904826,
+    "lng": -122.47267
   }
 ]
