@@ -268,5 +268,11 @@
     "country": "USA",
     "lat": 38.2542376,
     "lng": -85.759407
+  },
+  {
+    "city": "Pasadena",
+    "country": "USA",
+    "lat": 34.1476507,
+    "lng": -118.144155
   }
 ]
