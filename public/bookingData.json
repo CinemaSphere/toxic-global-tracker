@@ -256,5 +256,11 @@
     "country": "USA",
     "lat": 41.3878312,
     "lng": -81.6045685
+  },
+  {
+    "city": "Fort Collins",
+    "country": "USA",
+    "lat": 40.5871782,
+    "lng": -105.0770113
   }
 ]
