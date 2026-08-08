@@ -442,5 +442,11 @@
     "country": "USA",
     "lat": 29.7857853,
     "lng": -95.8243956
+  },
+  {
+    "city": "Hazlet Township",
+    "country": "USA",
+    "lat": 40.4292165,
+    "lng": -74.1648999
   }
 ]
