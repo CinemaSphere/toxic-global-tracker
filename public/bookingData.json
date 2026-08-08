@@ -472,5 +472,11 @@
     "country": "USA",
     "lat": 39.4842821,
     "lng": -88.3773279
+  },
+  {
+    "city": "College Station",
+    "country": "USA",
+    "lat": 30.6183939,
+    "lng": -96.3455991
   }
 ]
