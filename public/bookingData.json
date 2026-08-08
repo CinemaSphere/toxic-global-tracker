@@ -364,5 +364,11 @@
     "country": "USA",
     "lat": 40.4335167,
     "lng": -79.7606192
+  },
+  {
+    "city": "Pittsburgh",
+    "country": "USA",
+    "lat": 40.4406968,
+    "lng": -80.0025666
   }
 ]
