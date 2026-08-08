@@ -448,5 +448,11 @@
     "country": "USA",
     "lat": 40.4292165,
     "lng": -74.1648999
+  },
+  {
+    "city": "Shreveport",
+    "country": "USA",
+    "lat": 32.5135356,
+    "lng": -93.7477839
   }
 ]
