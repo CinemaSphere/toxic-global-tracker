@@ -340,5 +340,11 @@
     "country": "USA",
     "lat": 30.2711286,
     "lng": -97.7436995
+  },
+  {
+    "city": "Cedar Park",
+    "country": "USA",
+    "lat": 30.5217116,
+    "lng": -97.827833
   }
 ]
