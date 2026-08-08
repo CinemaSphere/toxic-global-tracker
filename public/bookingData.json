@@ -496,5 +496,11 @@
     "country": "USA",
     "lat": 42.6055893,
     "lng": -83.1499304
+  },
+  {
+    "city": "Sterling Heights",
+    "country": "USA",
+    "lat": 42.5803122,
+    "lng": -83.0302033
   }
 ]
