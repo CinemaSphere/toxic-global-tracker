@@ -478,5 +478,11 @@
     "country": "USA",
     "lat": 30.6183939,
     "lng": -96.3455991
+  },
+  {
+    "city": "West Jordan",
+    "country": "USA",
+    "lat": 40.6048991,
+    "lng": -111.9364608
   }
 ]
