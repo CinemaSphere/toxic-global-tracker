@@ -382,5 +382,11 @@
     "country": "USA",
     "lat": 40.0149856,
     "lng": -105.270545
+  },
+  {
+    "city": "Alexandria",
+    "country": "USA",
+    "lat": 38.8051095,
+    "lng": -77.0470229
   }
 ]
