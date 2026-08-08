@@ -400,5 +400,11 @@
     "country": "USA",
     "lat": 37.6248536,
     "lng": -122.4145986
+  },
+  {
+    "city": "Philadelphia",
+    "country": "USA",
+    "lat": 39.9527237,
+    "lng": -75.1635262
   }
 ]
