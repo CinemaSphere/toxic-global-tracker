@@ -580,5 +580,11 @@
     "country": "USA",
     "lat": 36.9775016,
     "lng": -76.42977
+  },
+  {
+    "city": "Brandon",
+    "country": "USA",
+    "lat": 27.928464,
+    "lng": -82.2880508
   }
 ]
