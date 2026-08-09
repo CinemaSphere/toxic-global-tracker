@@ -568,5 +568,11 @@
     "country": "USA",
     "lat": 32.2735792,
     "lng": -90.127881
+  },
+  {
+    "city": "Cherry Hill Township",
+    "country": "USA",
+    "lat": 39.9348351,
+    "lng": -75.0307264
   }
 ]
