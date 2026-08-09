@@ -502,5 +502,11 @@
     "country": "USA",
     "lat": 42.5803122,
     "lng": -83.0302033
+  },
+  {
+    "city": "Union City",
+    "country": "USA",
+    "lat": 37.5872576,
+    "lng": -122.0215737
   }
 ]
