@@ -526,5 +526,11 @@
     "country": "USA",
     "lat": 35.4094178,
     "lng": -80.5800049
+  },
+  {
+    "city": "Charlotte",
+    "country": "USA",
+    "lat": 35.2272086,
+    "lng": -80.8430827
   }
 ]
