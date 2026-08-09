@@ -574,5 +574,11 @@
     "country": "USA",
     "lat": 39.9348351,
     "lng": -75.0307264
+  },
+  {
+    "city": "Newport News",
+    "country": "USA",
+    "lat": 36.9775016,
+    "lng": -76.42977
   }
 ]
