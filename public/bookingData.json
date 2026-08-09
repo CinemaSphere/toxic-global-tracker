@@ -544,5 +544,11 @@
     "country": "USA",
     "lat": 30.0829344,
     "lng": -94.0984277
+  },
+  {
+    "city": "Davenport",
+    "country": "USA",
+    "lat": 41.5224692,
+    "lng": -90.5756401
   }
 ]
