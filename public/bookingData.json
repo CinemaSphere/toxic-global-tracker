@@ -634,5 +634,11 @@
     "country": "USA",
     "lat": 34.7465071,
     "lng": -92.2896267
+  },
+  {
+    "city": "San Antonio",
+    "country": "USA",
+    "lat": 29.4246002,
+    "lng": -98.4951405
   }
 ]
