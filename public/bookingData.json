@@ -628,5 +628,11 @@
     "country": "USA",
     "lat": 39.1928853,
     "lng": -76.7241371
+  },
+  {
+    "city": "Little Rock",
+    "country": "USA",
+    "lat": 34.7465071,
+    "lng": -92.2896267
   }
 ]
