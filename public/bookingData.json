@@ -640,5 +640,11 @@
     "country": "USA",
     "lat": 29.4246002,
     "lng": -98.4951405
+  },
+  {
+    "city": "Wellington",
+    "country": "NZL",
+    "lat": -41.2887953,
+    "lng": 174.7772114
   }
 ]
