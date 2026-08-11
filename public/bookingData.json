@@ -844,5 +844,11 @@
     "country": "GBR",
     "lat": 51.9016663,
     "lng": -0.2027155
+  },
+  {
+    "city": "Warrington",
+    "country": "GBR",
+    "lat": 53.4015716,
+    "lng": -2.5681941
   }
 ]
