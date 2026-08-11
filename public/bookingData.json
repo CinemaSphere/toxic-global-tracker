@@ -856,5 +856,11 @@
     "country": "GBR",
     "lat": 51.3471927,
     "lng": -2.9778916
+  },
+  {
+    "city": "Wolverhampton",
+    "country": "GBR",
+    "lat": 52.5847651,
+    "lng": -2.127567
   }
 ]
