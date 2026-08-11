@@ -718,5 +718,11 @@
     "country": "GBR",
     "lat": 53.7974185,
     "lng": -1.5437941
+  },
+  {
+    "city": "Manchester",
+    "country": "GBR",
+    "lat": 53.4168134,
+    "lng": -2.2321381
   }
 ]
