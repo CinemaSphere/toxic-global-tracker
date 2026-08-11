@@ -706,5 +706,11 @@
     "country": "GBR",
     "lat": 51.5074456,
     "lng": -0.1277653
+  },
+  {
+    "city": "Birmingham",
+    "country": "GBR",
+    "lat": 52.4948994,
+    "lng": -1.8518439
   }
 ]
