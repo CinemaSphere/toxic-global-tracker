@@ -772,5 +772,11 @@
     "country": "GBR",
     "lat": 51.878032,
     "lng": 0.5536542
+  },
+  {
+    "city": "Broughton",
+    "country": "GBR",
+    "lat": 53.1650183,
+    "lng": -2.9875151
   }
 ]
