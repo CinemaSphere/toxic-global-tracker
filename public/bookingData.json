@@ -850,5 +850,11 @@
     "country": "GBR",
     "lat": 53.4015716,
     "lng": -2.5681941
+  },
+  {
+    "city": "Weston-super-Mare",
+    "country": "GBR",
+    "lat": 51.3471927,
+    "lng": -2.9778916
   }
 ]
