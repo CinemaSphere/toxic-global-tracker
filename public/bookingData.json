@@ -760,5 +760,11 @@
     "country": "GBR",
     "lat": 53.5782863,
     "lng": -2.4300367
+  },
+  {
+    "city": "Bracknell",
+    "country": "GBR",
+    "lat": 51.41657,
+    "lng": -0.749388
   }
 ]
