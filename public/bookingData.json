@@ -658,5 +658,11 @@
     "country": "USA",
     "lat": 41.8755616,
     "lng": -87.6244212
+  },
+  {
+    "city": "Woodridge",
+    "country": "USA",
+    "lat": 41.7563344,
+    "lng": -88.045559
   }
 ]
