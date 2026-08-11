@@ -820,5 +820,11 @@
     "country": "GBR",
     "lat": 51.891073,
     "lng": -0.4230304
+  },
+  {
+    "city": "Milton Keynes",
+    "country": "GBR",
+    "lat": 52.0406502,
+    "lng": -0.7594092
   }
 ]
