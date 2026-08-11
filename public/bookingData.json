@@ -802,5 +802,11 @@
     "country": "GBR",
     "lat": 51.7685568,
     "lng": 0.0949036
+  },
+  {
+    "city": "High Wycombe",
+    "country": "GBR",
+    "lat": 51.6317449,
+    "lng": -0.75596
   }
 ]
