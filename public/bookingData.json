@@ -748,5 +748,11 @@
     "country": "GBR",
     "lat": 53.5527719,
     "lng": -1.4827755
+  },
+  {
+    "city": "Belfast City District",
+    "country": "GBR",
+    "lat": 54.596391,
+    "lng": -5.9301829
   }
 ]
