@@ -688,5 +688,11 @@
     "country": "USA",
     "lat": 30.3262247,
     "lng": -81.6579179
+  },
+  {
+    "city": "Melbourne",
+    "country": "USA",
+    "lat": 28.0785034,
+    "lng": -80.6077908
   }
 ]
