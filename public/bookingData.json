@@ -700,5 +700,11 @@
     "country": "USA",
     "lat": 42.0333608,
     "lng": -88.083406
+  },
+  {
+    "city": "Greater London",
+    "country": "GBR",
+    "lat": 51.5074456,
+    "lng": -0.1277653
   }
 ]
