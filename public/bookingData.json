@@ -742,5 +742,11 @@
     "country": "GBR",
     "lat": 51.148555,
     "lng": 0.8722566
+  },
+  {
+    "city": "Barnsley",
+    "country": "GBR",
+    "lat": 53.5527719,
+    "lng": -1.4827755
   }
 ]
