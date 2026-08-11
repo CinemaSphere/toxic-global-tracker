@@ -730,5 +730,11 @@
     "country": "GBR",
     "lat": 53.7944229,
     "lng": -1.7519186
+  },
+  {
+    "city": "Rushmoor",
+    "country": "GBR",
+    "lat": 51.2494169,
+    "lng": -0.7630148
   }
 ]
