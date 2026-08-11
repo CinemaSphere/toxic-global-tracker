@@ -694,5 +694,11 @@
     "country": "USA",
     "lat": 28.0785034,
     "lng": -80.6077908
+  },
+  {
+    "city": "Schaumburg",
+    "country": "USA",
+    "lat": 42.0333608,
+    "lng": -88.083406
   }
 ]
