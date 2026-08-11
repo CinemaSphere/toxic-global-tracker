@@ -682,5 +682,11 @@
     "country": "USA",
     "lat": 26.0628665,
     "lng": -80.2331038
+  },
+  {
+    "city": "Jacksonville",
+    "country": "USA",
+    "lat": 30.3262247,
+    "lng": -81.6579179
   }
 ]
