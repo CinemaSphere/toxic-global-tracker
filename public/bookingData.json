@@ -904,5 +904,11 @@
     "country": "USA",
     "lat": 32.912624,
     "lng": -96.6388833
+  },
+  {
+    "city": "Sugar Land",
+    "country": "USA",
+    "lat": 29.6196787,
+    "lng": -95.6349463
   }
 ]
