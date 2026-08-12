@@ -940,5 +940,11 @@
     "country": "USA",
     "lat": 33.5855677,
     "lng": -101.8470215
+  },
+  {
+    "city": "Grand Prairie",
+    "country": "USA",
+    "lat": 32.7459645,
+    "lng": -96.9977846
   }
 ]
