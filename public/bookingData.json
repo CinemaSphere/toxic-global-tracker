@@ -874,5 +874,11 @@
     "country": "USA",
     "lat": 37.2333253,
     "lng": -121.6846349
+  },
+  {
+    "city": "Kansas City",
+    "country": "USA",
+    "lat": 39.100105,
+    "lng": -94.5781416
   }
 ]
