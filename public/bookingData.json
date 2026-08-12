@@ -916,5 +916,11 @@
     "country": "USA",
     "lat": 39.0889469,
     "lng": -84.4919524
+  },
+  {
+    "city": "New Brunswick",
+    "country": "USA",
+    "lat": 40.4936119,
+    "lng": -74.4436416
   }
 ]
