@@ -976,5 +976,11 @@
     "country": "USA",
     "lat": 43.0939589,
     "lng": -71.462516
+  },
+  {
+    "city": "Merrimack",
+    "country": "USA",
+    "lat": 43.3260376,
+    "lng": -71.6854725
   }
 ]
