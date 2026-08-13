@@ -1066,5 +1066,11 @@
     "country": "AUS",
     "lat": -27.5386205,
     "lng": 153.072934
+  },
+  {
+    "city": "Whitehorse",
+    "country": "CAN",
+    "lat": 60.721571,
+    "lng": -135.054932
   }
 ]
