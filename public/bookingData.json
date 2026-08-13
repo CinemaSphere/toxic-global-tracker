@@ -982,5 +982,11 @@
     "country": "USA",
     "lat": 43.3260376,
     "lng": -71.6854725
+  },
+  {
+    "city": "Cambridge",
+    "country": "USA",
+    "lat": 42.3656347,
+    "lng": -71.1040018
   }
 ]
