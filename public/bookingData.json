@@ -988,5 +988,11 @@
     "country": "USA",
     "lat": 42.3656347,
     "lng": -71.1040018
+  },
+  {
+    "city": "Providence",
+    "country": "USA",
+    "lat": 41.8239891,
+    "lng": -71.4128343
   }
 ]
