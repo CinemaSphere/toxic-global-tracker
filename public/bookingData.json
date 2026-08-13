@@ -1006,5 +1006,11 @@
     "country": "USA",
     "lat": 41.5541144,
     "lng": -73.0435615
+  },
+  {
+    "city": "City of White Plains",
+    "country": "USA",
+    "lat": 41.0339862,
+    "lng": -73.7629097
   }
 ]
