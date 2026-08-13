@@ -958,5 +958,11 @@
     "country": "USA",
     "lat": 41.5644476,
     "lng": -93.7594059
+  },
+  {
+    "city": "San Francisco",
+    "country": "USA",
+    "lat": 37.7879363,
+    "lng": -122.4075201
   }
 ]
