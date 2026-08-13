@@ -1054,5 +1054,11 @@
     "country": "FRA",
     "lat": 48.8137847,
     "lng": 2.510611
+  },
+  {
+    "city": "Brisbane",
+    "country": "AUS",
+    "lat": -27.5386205,
+    "lng": 153.072934
   }
 ]
