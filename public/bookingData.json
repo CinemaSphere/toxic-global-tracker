@@ -1024,5 +1024,11 @@
     "country": "USA",
     "lat": 42.8864163,
     "lng": -78.8781493
+  },
+  {
+    "city": "Winter Park",
+    "country": "USA",
+    "lat": 28.5977707,
+    "lng": -81.3510264
   }
 ]
