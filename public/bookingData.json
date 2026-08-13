@@ -970,5 +970,11 @@
     "country": "USA",
     "lat": 43.6763036,
     "lng": -70.3663874
+  },
+  {
+    "city": "Hooksett",
+    "country": "USA",
+    "lat": 43.0939589,
+    "lng": -71.462516
   }
 ]
