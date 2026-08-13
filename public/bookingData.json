@@ -1048,5 +1048,11 @@
     "country": "USA",
     "lat": 39.9784186,
     "lng": -86.1283681
+  },
+  {
+    "city": "Champigny-sur-Marne",
+    "country": "FRA",
+    "lat": 48.8137847,
+    "lng": 2.510611
   }
 ]
