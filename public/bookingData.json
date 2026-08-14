@@ -1300,5 +1300,11 @@
     "country": "AUS",
     "lat": -27.2268785,
     "lng": 153.1129973
+  },
+  {
+    "city": "Forest Hill",
+    "country": "AUS",
+    "lat": -37.8362738,
+    "lng": 145.1690911
   }
 ]
