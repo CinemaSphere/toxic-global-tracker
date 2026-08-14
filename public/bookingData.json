@@ -1246,5 +1246,11 @@
     "country": "NZL",
     "lat": -43.530955,
     "lng": 172.6364343
+  },
+  {
+    "city": "Hamilton City",
+    "country": "NZL",
+    "lat": -37.7878809,
+    "lng": 175.281788
   }
 ]
