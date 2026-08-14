@@ -1108,5 +1108,11 @@
     "country": "GBR",
     "lat": 52.5725769,
     "lng": -0.2427336
+  },
+  {
+    "city": "Wokingham",
+    "country": "GBR",
+    "lat": 51.4570846,
+    "lng": -0.886537
   }
 ]
