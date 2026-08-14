@@ -1252,5 +1252,11 @@
     "country": "NZL",
     "lat": -37.7878809,
     "lng": 175.281788
+  },
+  {
+    "city": "Tweed Heads South",
+    "country": "AUS",
+    "lat": -28.2003,
+    "lng": 153.5349368
   }
 ]
