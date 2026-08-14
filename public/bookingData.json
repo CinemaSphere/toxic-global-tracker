@@ -1192,5 +1192,11 @@
     "country": "GBR",
     "lat": 50.9691736,
     "lng": -1.3517331
+  },
+  {
+    "city": "Limerick",
+    "country": "IRL",
+    "lat": 52.661252,
+    "lng": -8.6301239
   }
 ]
