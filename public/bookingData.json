@@ -1258,5 +1258,11 @@
     "country": "AUS",
     "lat": -28.2003,
     "lng": 153.5349368
+  },
+  {
+    "city": "Belconnen",
+    "country": "AUS",
+    "lat": -35.2274338,
+    "lng": 149.0431454
   }
 ]
