@@ -1174,5 +1174,11 @@
     "country": "GBR",
     "lat": 53.7262305,
     "lng": -1.3517218
+  },
+  {
+    "city": "Ellesmere Port",
+    "country": "GBR",
+    "lat": 53.2630137,
+    "lng": -2.8933318
   }
 ]
