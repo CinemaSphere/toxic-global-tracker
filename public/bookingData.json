@@ -1216,5 +1216,11 @@
     "country": "GBR",
     "lat": 50.3714122,
     "lng": -4.1424451
+  },
+  {
+    "city": "Portsmouth",
+    "country": "GBR",
+    "lat": 50.800031,
+    "lng": -1.0906023
   }
 ]
