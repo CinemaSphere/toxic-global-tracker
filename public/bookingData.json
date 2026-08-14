@@ -1120,5 +1120,11 @@
     "country": "GBR",
     "lat": 51.4564242,
     "lng": -0.9700664
+  },
+  {
+    "city": "Southampton",
+    "country": "GBR",
+    "lat": 50.9025349,
+    "lng": -1.404189
   }
 ]
