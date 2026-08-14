@@ -1126,5 +1126,11 @@
     "country": "GBR",
     "lat": 50.9025349,
     "lng": -1.404189
+  },
+  {
+    "city": "Middleton One Row",
+    "country": "GBR",
+    "lat": 54.5094107,
+    "lng": -1.4247903
   }
 ]
