@@ -1072,5 +1072,11 @@
     "country": "CAN",
     "lat": 60.721571,
     "lng": -135.054932
+  },
+  {
+    "city": "The Colony",
+    "country": "USA",
+    "lat": 33.0890094,
+    "lng": -96.8863922
   }
 ]
