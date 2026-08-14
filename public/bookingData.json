@@ -1084,5 +1084,11 @@
     "country": "GBR",
     "lat": 51.4430141,
     "lng": -2.5816622
+  },
+  {
+    "city": "Coventry",
+    "country": "GBR",
+    "lat": 52.4081812,
+    "lng": -1.510477
   }
 ]
