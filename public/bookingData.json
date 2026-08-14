@@ -1168,5 +1168,11 @@
     "country": "GBR",
     "lat": 53.749326,
     "lng": -2.4840566
+  },
+  {
+    "city": "Wakefield",
+    "country": "GBR",
+    "lat": 53.7262305,
+    "lng": -1.3517218
   }
 ]
