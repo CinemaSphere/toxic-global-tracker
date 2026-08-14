@@ -1132,5 +1132,11 @@
     "country": "GBR",
     "lat": 54.5094107,
     "lng": -1.4247903
+  },
+  {
+    "city": "Dartford",
+    "country": "GBR",
+    "lat": 51.4507436,
+    "lng": 0.2817634
   }
 ]
