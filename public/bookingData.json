@@ -1102,5 +1102,11 @@
     "country": "GBR",
     "lat": 52.6362,
     "lng": -1.1331969
+  },
+  {
+    "city": "Peterborough",
+    "country": "GBR",
+    "lat": 52.5725769,
+    "lng": -0.2427336
   }
 ]
