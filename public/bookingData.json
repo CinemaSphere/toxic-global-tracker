@@ -1240,5 +1240,11 @@
     "country": "GBR",
     "lat": 51.6553875,
     "lng": -0.3957425
+  },
+  {
+    "city": "Christchurch",
+    "country": "NZL",
+    "lat": -43.530955,
+    "lng": 172.6364343
   }
 ]
