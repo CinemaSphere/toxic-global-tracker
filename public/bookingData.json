@@ -1420,5 +1420,11 @@
     "country": "USA",
     "lat": 34.1206564,
     "lng": -84.0043513
+  },
+  {
+    "city": "Johns Creek",
+    "country": "USA",
+    "lat": 34.0181557,
+    "lng": -84.190196
   }
 ]
