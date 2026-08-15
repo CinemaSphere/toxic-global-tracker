@@ -1330,5 +1330,11 @@
     "country": "AUS",
     "lat": -35.4209771,
     "lng": 149.0921341
+  },
+  {
+    "city": "Morayfield",
+    "country": "AUS",
+    "lat": -27.1102549,
+    "lng": 152.948924
   }
 ]
