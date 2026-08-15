@@ -1486,5 +1486,11 @@
     "country": "USA",
     "lat": 47.6038321,
     "lng": -122.330062
+  },
+  {
+    "city": "Chino Hills",
+    "country": "USA",
+    "lat": 33.9926803,
+    "lng": -117.760056
   }
 ]
