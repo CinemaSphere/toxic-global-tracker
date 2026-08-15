@@ -1360,5 +1360,11 @@
     "country": "USA",
     "lat": 31.8457149,
     "lng": -102.367687
+  },
+  {
+    "city": "Barboursville",
+    "country": "USA",
+    "lat": 38.4095298,
+    "lng": -82.2945923
   }
 ]
