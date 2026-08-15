@@ -1564,5 +1564,11 @@
     "country": "USA",
     "lat": 40.4258686,
     "lng": -86.9080655
+  },
+  {
+    "city": "Canton Township",
+    "country": "USA",
+    "lat": 42.3076547,
+    "lng": -83.4868961
   }
 ]
