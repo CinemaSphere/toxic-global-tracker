@@ -1372,5 +1372,11 @@
     "country": "USA",
     "lat": 41.8061399,
     "lng": -88.3272952
+  },
+  {
+    "city": "Lake Charles",
+    "country": "USA",
+    "lat": 30.2305095,
+    "lng": -93.2169807
   }
 ]
