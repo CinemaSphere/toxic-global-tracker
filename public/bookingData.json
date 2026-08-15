@@ -1456,5 +1456,11 @@
     "country": "USA",
     "lat": 40.5792701,
     "lng": -74.4115401
+  },
+  {
+    "city": "Village of Farmingdale",
+    "country": "USA",
+    "lat": 40.7328811,
+    "lng": -73.4458564
   }
 ]
