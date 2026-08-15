@@ -1408,5 +1408,11 @@
     "country": "USA",
     "lat": 32.7174202,
     "lng": -117.162772
+  },
+  {
+    "city": "Wilmington",
+    "country": "USA",
+    "lat": 39.7459468,
+    "lng": -75.546589
   }
 ]
