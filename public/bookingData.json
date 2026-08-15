@@ -1468,5 +1468,11 @@
     "country": "USA",
     "lat": 39.7092262,
     "lng": -84.0632685
+  },
+  {
+    "city": "Downingtown",
+    "country": "USA",
+    "lat": 40.0064958,
+    "lng": -75.7032742
   }
 ]
