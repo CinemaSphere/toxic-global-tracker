@@ -1582,5 +1582,11 @@
     "country": "USA",
     "lat": 46.8701049,
     "lng": -113.995267
+  },
+  {
+    "city": "Indian Land",
+    "country": "USA",
+    "lat": 35.0018151,
+    "lng": -80.8556287
   }
 ]
