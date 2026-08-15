@@ -1366,5 +1366,11 @@
     "country": "USA",
     "lat": 38.4095298,
     "lng": -82.2945923
+  },
+  {
+    "city": "North Aurora",
+    "country": "USA",
+    "lat": 41.8061399,
+    "lng": -88.3272952
   }
 ]
