@@ -1540,5 +1540,11 @@
     "country": "USA",
     "lat": 30.0971621,
     "lng": -95.6160549
+  },
+  {
+    "city": "Carbondale",
+    "country": "USA",
+    "lat": 37.7274692,
+    "lng": -89.216655
   }
 ]
