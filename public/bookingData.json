@@ -1558,5 +1558,11 @@
     "country": "USA",
     "lat": 40.6938609,
     "lng": -89.5891008
+  },
+  {
+    "city": "West Lafayette",
+    "country": "USA",
+    "lat": 40.4258686,
+    "lng": -86.9080655
   }
 ]
