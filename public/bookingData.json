@@ -1642,5 +1642,11 @@
     "country": "USA",
     "lat": 30.4380832,
     "lng": -84.2809332
+  },
+  {
+    "city": "South Miami",
+    "country": "USA",
+    "lat": 25.7076017,
+    "lng": -80.2933846
   }
 ]
