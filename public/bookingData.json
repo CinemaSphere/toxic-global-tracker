@@ -1678,5 +1678,11 @@
     "country": "DEU",
     "lat": 51.9166621,
     "lng": 8.4043282
+  },
+  {
+    "city": "Kornwestheim",
+    "country": "DEU",
+    "lat": 48.8611498,
+    "lng": 9.1873875
   }
 ]
