@@ -1684,5 +1684,11 @@
     "country": "DEU",
     "lat": 48.8611498,
     "lng": 9.1873875
+  },
+  {
+    "city": "Mönchengladbach",
+    "country": "DEU",
+    "lat": 51.1947131,
+    "lng": 6.4353792
   }
 ]
