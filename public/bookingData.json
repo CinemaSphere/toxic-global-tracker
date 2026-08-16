@@ -1666,5 +1666,11 @@
     "country": "DEU",
     "lat": 52.4811497,
     "lng": 13.4353501
+  },
+  {
+    "city": "Heidelberg",
+    "country": "DEU",
+    "lat": 49.4093582,
+    "lng": 8.694724
   }
 ]
