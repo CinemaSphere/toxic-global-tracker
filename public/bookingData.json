@@ -1612,5 +1612,11 @@
     "country": "DEU",
     "lat": 50.302682,
     "lng": 7.7518932
+  },
+  {
+    "city": "Hamburg",
+    "country": "DEU",
+    "lat": 53.5429127,
+    "lng": 9.9958346
   }
 ]
