@@ -1654,5 +1654,11 @@
     "country": "AUS",
     "lat": -37.7433872,
     "lng": 142.0242865
+  },
+  {
+    "city": "Halswell-Hornby-Riccarton Community",
+    "country": "NZL",
+    "lat": -43.5309939,
+    "lng": 172.5947946
   }
 ]
