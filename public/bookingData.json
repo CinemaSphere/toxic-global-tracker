@@ -1672,5 +1672,11 @@
     "country": "DEU",
     "lat": 49.4093582,
     "lng": 8.694724
+  },
+  {
+    "city": "Gütersloh",
+    "country": "DEU",
+    "lat": 51.9166621,
+    "lng": 8.4043282
   }
 ]
