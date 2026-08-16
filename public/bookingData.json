@@ -1636,5 +1636,11 @@
     "country": "USA",
     "lat": 37.4863239,
     "lng": -122.232523
+  },
+  {
+    "city": "Tallahassee",
+    "country": "USA",
+    "lat": 30.4380832,
+    "lng": -84.2809332
   }
 ]
