@@ -1630,5 +1630,11 @@
     "country": "USA",
     "lat": 38.7521235,
     "lng": -121.2880059
+  },
+  {
+    "city": "Redwood City",
+    "country": "USA",
+    "lat": 37.4863239,
+    "lng": -122.232523
   }
 ]
