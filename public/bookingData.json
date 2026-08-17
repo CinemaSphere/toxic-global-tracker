@@ -1726,5 +1726,11 @@
     "country": "AUS",
     "lat": -27.683054,
     "lng": 153.1894379
+  },
+  {
+    "city": "Mount Pleasant",
+    "country": "AUS",
+    "lat": -27.1648516,
+    "lng": 152.7834819
   }
 ]
