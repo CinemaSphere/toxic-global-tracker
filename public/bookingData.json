@@ -1768,5 +1768,11 @@
     "country": "AUS",
     "lat": -27.6540497,
     "lng": 152.908847
+  },
+  {
+    "city": "Strathpine",
+    "country": "AUS",
+    "lat": -27.3099861,
+    "lng": 152.9905347
   }
 ]
