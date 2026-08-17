@@ -1810,5 +1810,11 @@
     "country": "AUS",
     "lat": -32.3006647,
     "lng": 115.7393915
+  },
+  {
+    "city": "District of Woden Valley",
+    "country": "AUS",
+    "lat": -35.3465173,
+    "lng": 149.1013881
   }
 ]
