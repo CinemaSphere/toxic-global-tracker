@@ -1780,5 +1780,11 @@
     "country": "AUS",
     "lat": -27.5597959,
     "lng": 151.9506835
+  },
+  {
+    "city": "Townsville City",
+    "country": "AUS",
+    "lat": -19.3502845,
+    "lng": 146.8036047
   }
 ]
