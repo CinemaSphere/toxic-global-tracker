@@ -1750,5 +1750,11 @@
     "country": "AUS",
     "lat": -28.027218,
     "lng": 153.4168032
+  },
+  {
+    "city": "Palmerston",
+    "country": "AUS",
+    "lat": -17.62404,
+    "lng": 145.6654086
   }
 ]
