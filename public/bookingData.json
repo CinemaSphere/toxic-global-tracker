@@ -1696,5 +1696,11 @@
     "country": "DEU",
     "lat": 51.0493286,
     "lng": 13.7381437
+  },
+  {
+    "city": "Wiesbaden",
+    "country": "DEU",
+    "lat": 50.0820384,
+    "lng": 8.2416556
   }
 ]
