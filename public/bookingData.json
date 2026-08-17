@@ -1738,5 +1738,11 @@
     "country": "AUS",
     "lat": -35.0261988,
     "lng": 138.5459021
+  },
+  {
+    "city": "Maroochydore",
+    "country": "AUS",
+    "lat": -26.6556523,
+    "lng": 153.0946684
   }
 ]
