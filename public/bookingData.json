@@ -1756,5 +1756,11 @@
     "country": "AUS",
     "lat": -17.62404,
     "lng": 145.6654086
+  },
+  {
+    "city": "Rockhampton City",
+    "country": "AUS",
+    "lat": -23.3792268,
+    "lng": 150.5102964
   }
 ]
