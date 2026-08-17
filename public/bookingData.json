@@ -1786,5 +1786,11 @@
     "country": "AUS",
     "lat": -19.3502845,
     "lng": 146.8036047
+  },
+  {
+    "city": "The Council of the Shire of Hornsby",
+    "country": "AUS",
+    "lat": -33.572366,
+    "lng": 151.1317605
   }
 ]
