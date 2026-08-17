@@ -1732,5 +1732,11 @@
     "country": "AUS",
     "lat": -27.1648516,
     "lng": 152.7834819
+  },
+  {
+    "city": "City of Marion",
+    "country": "AUS",
+    "lat": -35.0261988,
+    "lng": 138.5459021
   }
 ]
