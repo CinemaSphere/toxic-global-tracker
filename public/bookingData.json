@@ -1720,5 +1720,11 @@
     "country": "AUS",
     "lat": -32.9288889,
     "lng": 151.6505556
+  },
+  {
+    "city": "Loganholme",
+    "country": "AUS",
+    "lat": -27.683054,
+    "lng": 153.1894379
   }
 ]
