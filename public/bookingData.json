@@ -1804,5 +1804,11 @@
     "country": "AUS",
     "lat": -34.8338962,
     "lng": 138.6851156
+  },
+  {
+    "city": "City of Rockingham",
+    "country": "AUS",
+    "lat": -32.3006647,
+    "lng": 115.7393915
   }
 ]
