@@ -1774,5 +1774,11 @@
     "country": "AUS",
     "lat": -27.3099861,
     "lng": 152.9905347
+  },
+  {
+    "city": "Toowoomba City",
+    "country": "AUS",
+    "lat": -27.5597959,
+    "lng": 151.9506835
   }
 ]
