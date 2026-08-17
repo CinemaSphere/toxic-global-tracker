@@ -1762,5 +1762,11 @@
     "country": "AUS",
     "lat": -23.3792268,
     "lng": 150.5102964
+  },
+  {
+    "city": "Springfield",
+    "country": "AUS",
+    "lat": -27.6540497,
+    "lng": 152.908847
   }
 ]
