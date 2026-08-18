@@ -1942,5 +1942,11 @@
     "country": "CAN",
     "lat": 49.1913033,
     "lng": -122.849143
+  },
+  {
+    "city": "Longueuil",
+    "country": "CAN",
+    "lat": 45.521906,
+    "lng": -73.4644578
   }
 ]
