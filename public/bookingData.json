@@ -1954,5 +1954,11 @@
     "country": "CAN",
     "lat": 45.4208777,
     "lng": -75.6901106
+  },
+  {
+    "city": "Taschereau",
+    "country": "CAN",
+    "lat": 48.6626064,
+    "lng": -78.6830135
   }
 ]
