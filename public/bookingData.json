@@ -1912,5 +1912,11 @@
     "country": "SAU",
     "lat": 21.5504432,
     "lng": 39.1742363
+  },
+  {
+    "city": "Richmond Hill",
+    "country": "CAN",
+    "lat": 43.8801166,
+    "lng": -79.4392925
   }
 ]
