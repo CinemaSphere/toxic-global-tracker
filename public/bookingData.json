@@ -1834,5 +1834,11 @@
     "country": "DEU",
     "lat": 50.776351,
     "lng": 6.083862
+  },
+  {
+    "city": "Sharjah",
+    "country": "ARE",
+    "lat": 25.2691848,
+    "lng": 55.6934811
   }
 ]
