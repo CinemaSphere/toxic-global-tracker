@@ -2044,5 +2044,11 @@
     "country": "PHL",
     "lat": 10.47,
     "lng": 123.83
+  },
+  {
+    "city": "Bellevue",
+    "country": "USA",
+    "lat": 47.6144219,
+    "lng": -122.192337
   }
 ]
