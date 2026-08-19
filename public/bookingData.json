@@ -2242,5 +2242,11 @@
     "country": "FRA",
     "lat": 43.7009358,
     "lng": 7.2683912
+  },
+  {
+    "city": "Saint-Denis",
+    "country": "FRA",
+    "lat": 48.9383732,
+    "lng": 2.3627508
   }
 ]
