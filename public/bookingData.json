@@ -2194,5 +2194,11 @@
     "country": "USA",
     "lat": 42.898729,
     "lng": -87.9177966
+  },
+  {
+    "city": "New Berlin",
+    "country": "USA",
+    "lat": 42.9762181,
+    "lng": -88.1084968
   }
 ]
