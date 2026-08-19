@@ -2086,5 +2086,11 @@
     "country": "USA",
     "lat": 38.6779591,
     "lng": -121.176058
+  },
+  {
+    "city": "Westminster",
+    "country": "USA",
+    "lat": 39.8366528,
+    "lng": -105.0372046
   }
 ]
