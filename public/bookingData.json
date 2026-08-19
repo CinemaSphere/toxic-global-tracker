@@ -2218,5 +2218,11 @@
     "country": "ARE",
     "lat": 25.7737705,
     "lng": 55.938232
+  },
+  {
+    "city": "Bordeaux",
+    "country": "FRA",
+    "lat": 44.841225,
+    "lng": -0.5800364
   }
 ]
