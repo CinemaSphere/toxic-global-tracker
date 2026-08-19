@@ -2008,5 +2008,11 @@
     "country": "MEX",
     "lat": 20.6720375,
     "lng": -103.338396
+  },
+  {
+    "city": "Mexico City",
+    "country": "MEX",
+    "lat": 19.3207722,
+    "lng": -99.1514678
   }
 ]
