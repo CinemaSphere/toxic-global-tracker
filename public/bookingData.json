@@ -2002,5 +2002,11 @@
     "country": "USA",
     "lat": 45.1608821,
     "lng": -122.2305038
+  },
+  {
+    "city": "Guadalajara",
+    "country": "MEX",
+    "lat": 20.6720375,
+    "lng": -103.338396
   }
 ]
