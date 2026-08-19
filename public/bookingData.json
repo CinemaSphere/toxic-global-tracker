@@ -2116,5 +2116,11 @@
     "country": "AUS",
     "lat": -33.8139843,
     "lng": 151.002666
+  },
+  {
+    "city": "Inver Grove Heights",
+    "country": "USA",
+    "lat": 44.8479039,
+    "lng": -93.0428119
   }
 ]
