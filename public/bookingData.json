@@ -2014,5 +2014,11 @@
     "country": "MEX",
     "lat": 19.3207722,
     "lng": -99.1514678
+  },
+  {
+    "city": "Santiago de Querétaro",
+    "country": "MEX",
+    "lat": 20.5922997,
+    "lng": -100.3917424
   }
 ]
