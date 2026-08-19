@@ -2128,5 +2128,11 @@
     "country": "USA",
     "lat": 45.1068949,
     "lng": -93.2075931
+  },
+  {
+    "city": "Saint Louis Park",
+    "country": "USA",
+    "lat": 44.9475726,
+    "lng": -93.3569023
   }
 ]
