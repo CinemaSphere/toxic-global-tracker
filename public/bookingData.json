@@ -2026,5 +2026,11 @@
     "country": "PHL",
     "lat": 14.4809012,
     "lng": 120.9817861
+  },
+  {
+    "city": "Davao del Sur",
+    "country": "PHL",
+    "lat": 6.6983658,
+    "lng": 125.3612135
   }
 ]
