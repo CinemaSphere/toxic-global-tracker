@@ -1978,5 +1978,11 @@
     "country": "NOR",
     "lat": 58.9831321,
     "lng": 6.394641
+  },
+  {
+    "city": "Stavanger",
+    "country": "NOR",
+    "lat": 58.9699675,
+    "lng": 5.7318101
   }
 ]
