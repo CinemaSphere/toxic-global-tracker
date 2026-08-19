@@ -2182,5 +2182,11 @@
     "country": "USA",
     "lat": 43.07469,
     "lng": -89.3841663
+  },
+  {
+    "city": "Wauwatosa",
+    "country": "USA",
+    "lat": 43.0494122,
+    "lng": -88.0079271
   }
 ]
