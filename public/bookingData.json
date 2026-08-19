@@ -2134,5 +2134,11 @@
     "country": "USA",
     "lat": 44.9475726,
     "lng": -93.3569023
+  },
+  {
+    "city": "Coon Rapids",
+    "country": "USA",
+    "lat": 45.1728923,
+    "lng": -93.3023898
   }
 ]
