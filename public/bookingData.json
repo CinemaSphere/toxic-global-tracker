@@ -2170,5 +2170,11 @@
     "country": "USA",
     "lat": 44.2613967,
     "lng": -88.4069744
+  },
+  {
+    "city": "Fitchburg",
+    "country": "USA",
+    "lat": 43.0020919,
+    "lng": -89.423817
   }
 ]
