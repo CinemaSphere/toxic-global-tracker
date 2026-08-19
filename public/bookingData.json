@@ -2062,5 +2062,11 @@
     "country": "USA",
     "lat": 47.0451022,
     "lng": -122.8950075
+  },
+  {
+    "city": "Birmingham",
+    "country": "USA",
+    "lat": 33.5206824,
+    "lng": -86.8024326
   }
 ]
