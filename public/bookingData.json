@@ -2074,5 +2074,11 @@
     "country": "USA",
     "lat": 33.350293,
     "lng": -86.851123
+  },
+  {
+    "city": "Sacramento",
+    "country": "USA",
+    "lat": 38.5810606,
+    "lng": -121.493895
   }
 ]
