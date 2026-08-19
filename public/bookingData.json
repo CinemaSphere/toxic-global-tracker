@@ -2122,5 +2122,11 @@
     "country": "USA",
     "lat": 44.8479039,
     "lng": -93.0428119
+  },
+  {
+    "city": "Mounds View",
+    "country": "USA",
+    "lat": 45.1068949,
+    "lng": -93.2075931
   }
 ]
