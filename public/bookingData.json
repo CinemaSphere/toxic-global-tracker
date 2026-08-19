@@ -2110,5 +2110,11 @@
     "country": "AUS",
     "lat": -34.4866791,
     "lng": 150.8825597
+  },
+  {
+    "city": "Parramatta",
+    "country": "AUS",
+    "lat": -33.8139843,
+    "lng": 151.002666
   }
 ]
