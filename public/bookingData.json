@@ -2260,5 +2260,11 @@
     "country": "FRA",
     "lat": 48.7965001,
     "lng": 2.530442
+  },
+  {
+    "city": "Nairobi",
+    "country": "KEN",
+    "lat": -1.302398,
+    "lng": 36.8288509
   }
 ]
