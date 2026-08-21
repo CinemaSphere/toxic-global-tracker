@@ -3376,5 +3376,11 @@
     "country": "IND",
     "lat": 23.693479,
     "lng": 85.5215989
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "country": "IND",
+    "lat": 8.4882267,
+    "lng": 76.947551
   }
 ]
