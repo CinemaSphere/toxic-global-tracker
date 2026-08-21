@@ -2476,5 +2476,11 @@
     "country": "IND",
     "lat": 27.4955539,
     "lng": 77.6855554
+  },
+  {
+    "city": "Porbandar",
+    "country": "IND",
+    "lat": 21.6505229,
+    "lng": 69.6565371
   }
 ]
