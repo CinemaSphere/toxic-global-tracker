@@ -3334,5 +3334,11 @@
     "country": "IND",
     "lat": 32.0768665,
     "lng": 76.2985872
+  },
+  {
+    "city": "Jamshedpur",
+    "country": "IND",
+    "lat": 22.8015194,
+    "lng": 86.2029579
   }
 ]
