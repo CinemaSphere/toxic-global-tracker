@@ -3070,5 +3070,11 @@
     "country": "IND",
     "lat": 25.2861354,
     "lng": 87.1304229
+  },
+  {
+    "city": "Darbhanga",
+    "country": "IND",
+    "lat": 26.0829899,
+    "lng": 86.0324951
   }
 ]
