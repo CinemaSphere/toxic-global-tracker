@@ -3388,5 +3388,11 @@
     "country": "IND",
     "lat": 9.9679032,
     "lng": 76.2444378
+  },
+  {
+    "city": "Kozhikode",
+    "country": "IND",
+    "lat": 11.2450558,
+    "lng": 75.7754716
   }
 ]
