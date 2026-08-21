@@ -2374,5 +2374,11 @@
     "country": "IND",
     "lat": 13.1805066,
     "lng": 78.2669329
+  },
+  {
+    "city": "Belagavi",
+    "country": "IND",
+    "lat": 16.1587846,
+    "lng": 74.888862
   }
 ]
