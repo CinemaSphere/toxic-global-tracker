@@ -3430,5 +3430,11 @@
     "country": "IND",
     "lat": 12.0918925,
     "lng": 75.1951763
+  },
+  {
+    "city": "Malappuram",
+    "country": "IND",
+    "lat": 11.1065685,
+    "lng": 76.1101742
   }
 ]
