@@ -3406,5 +3406,11 @@
     "country": "IND",
     "lat": 10.5270099,
     "lng": 76.214621
+  },
+  {
+    "city": "Kottayam",
+    "country": "IND",
+    "lat": 9.6287383,
+    "lng": 76.6455326
   }
 ]
