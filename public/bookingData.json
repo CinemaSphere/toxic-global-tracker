@@ -3292,5 +3292,11 @@
     "country": "IND",
     "lat": 28.0438456,
     "lng": 76.1062015
+  },
+  {
+    "city": "Dharamshala",
+    "country": "IND",
+    "lat": 32.2143039,
+    "lng": 76.3196717
   }
 ]
