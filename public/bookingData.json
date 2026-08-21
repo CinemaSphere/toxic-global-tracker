@@ -3514,5 +3514,11 @@
     "country": "MYS",
     "lat": 4.1912768,
     "lng": 100.6592247
+  },
+  {
+    "city": "Kuala Lumpur",
+    "country": "MYS",
+    "lat": 3.1516964,
+    "lng": 101.6942371
   }
 ]
