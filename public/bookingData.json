@@ -2410,5 +2410,11 @@
     "country": "IND",
     "lat": 16.51251,
     "lng": 77.08839
+  },
+  {
+    "city": "Raichur",
+    "country": "IND",
+    "lat": 16.0547194,
+    "lng": 76.9003647
   }
 ]
