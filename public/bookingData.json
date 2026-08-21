@@ -3544,5 +3544,11 @@
     "country": "IND",
     "lat": 22.2309255,
     "lng": 84.8678705
+  },
+  {
+    "city": "Cuttack",
+    "country": "IND",
+    "lat": 20.4686,
+    "lng": 85.8792
   }
 ]
