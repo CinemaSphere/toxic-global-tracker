@@ -3508,5 +3508,11 @@
     "country": "IND",
     "lat": 10.8048616,
     "lng": 76.1780161
+  },
+  {
+    "city": "Seri Manjung",
+    "country": "MYS",
+    "lat": 4.1912768,
+    "lng": 100.6592247
   }
 ]
