@@ -2500,5 +2500,11 @@
     "country": "IND",
     "lat": 22.2973142,
     "lng": 73.1942567
+  },
+  {
+    "city": "Nagpur City",
+    "country": "IND",
+    "lat": 21.1498134,
+    "lng": 79.0820556
   }
 ]
