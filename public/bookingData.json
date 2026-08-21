@@ -3520,5 +3520,11 @@
     "country": "MYS",
     "lat": 3.1516964,
     "lng": 101.6942371
+  },
+  {
+    "city": "Majlis Bandaraya Ipoh",
+    "country": "MYS",
+    "lat": 4.5986817,
+    "lng": 101.0900236
   }
 ]
