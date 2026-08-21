@@ -3208,5 +3208,11 @@
     "country": "IND",
     "lat": 15.4035516,
     "lng": 74.0101676
+  },
+  {
+    "city": "Faridabad",
+    "country": "IND",
+    "lat": 28.4031478,
+    "lng": 77.3105561
   }
 ]
