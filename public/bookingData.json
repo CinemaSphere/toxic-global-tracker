@@ -3004,5 +3004,11 @@
     "country": "IND",
     "lat": 23.132377,
     "lng": 87.2081925
+  },
+  {
+    "city": "Jalpaiguri",
+    "country": "IND",
+    "lat": 26.6262805,
+    "lng": 88.7334485
   }
 ]
