@@ -3328,5 +3328,11 @@
     "country": "IND",
     "lat": 25.75,
     "lng": 80
+  },
+  {
+    "city": "Kangra",
+    "country": "IND",
+    "lat": 32.0768665,
+    "lng": 76.2985872
   }
 ]
