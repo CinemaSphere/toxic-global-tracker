@@ -3100,5 +3100,11 @@
     "country": "IND",
     "lat": 26.6506888,
     "lng": 84.9114654
+  },
+  {
+    "city": "Muzaffarpur",
+    "country": "IND",
+    "lat": 26.1482548,
+    "lng": 85.3316097
   }
 ]
