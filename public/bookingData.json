@@ -3400,5 +3400,11 @@
     "country": "IND",
     "lat": 8.8870533,
     "lng": 76.5906696
+  },
+  {
+    "city": "Thrissur",
+    "country": "IND",
+    "lat": 10.5270099,
+    "lng": 76.214621
   }
 ]
