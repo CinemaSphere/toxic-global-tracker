@@ -2632,5 +2632,11 @@
     "country": "IND",
     "lat": 18.9918442,
     "lng": 75.909784
+  },
+  {
+    "city": "Gondia City",
+    "country": "IND",
+    "lat": 21.455228,
+    "lng": 80.1962729
   }
 ]
