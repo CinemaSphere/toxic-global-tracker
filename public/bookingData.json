@@ -2446,5 +2446,11 @@
     "country": "IND",
     "lat": 29.9384473,
     "lng": 78.1452985
+  },
+  {
+    "city": "Lucknow",
+    "country": "IND",
+    "lat": 26.8381,
+    "lng": 80.9346001
   }
 ]
