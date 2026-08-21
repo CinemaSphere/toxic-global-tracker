@@ -2800,5 +2800,11 @@
     "country": "IND",
     "lat": 21.4176122,
     "lng": 71.249609
+  },
+  {
+    "city": "Srinagar",
+    "country": "IND",
+    "lat": 34.0747444,
+    "lng": 74.8204443
   }
 ]
