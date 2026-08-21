@@ -3490,5 +3490,11 @@
     "country": "IND",
     "lat": 10.1332804,
     "lng": 76.7361221
+  },
+  {
+    "city": "Pathanamthitta",
+    "country": "IND",
+    "lat": 9.2780841,
+    "lng": 76.9737443
   }
 ]
