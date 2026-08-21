@@ -2434,5 +2434,11 @@
     "country": "IND",
     "lat": 24.1044927,
     "lng": 88.2510635
+  },
+  {
+    "city": "Bhubaneswar",
+    "country": "IND",
+    "lat": 20.2602964,
+    "lng": 85.8394521
   }
 ]
