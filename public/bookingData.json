@@ -2488,5 +2488,11 @@
     "country": "IND",
     "lat": 22.4732415,
     "lng": 70.0552102
+  },
+  {
+    "city": "Cooch Behar",
+    "country": "IND",
+    "lat": 26.2559197,
+    "lng": 89.4201143
   }
 ]
