@@ -2392,5 +2392,11 @@
     "country": "IND",
     "lat": 14.2558835,
     "lng": 75.8303421
+  },
+  {
+    "city": "Shivamogga",
+    "country": "IND",
+    "lat": 13.9326093,
+    "lng": 75.574978
   }
 ]
