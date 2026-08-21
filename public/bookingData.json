@@ -2356,5 +2356,11 @@
     "country": "IND",
     "lat": 15.3707296,
     "lng": 75.1332867
+  },
+  {
+    "city": "Mangaluru",
+    "country": "IND",
+    "lat": 12.8698101,
+    "lng": 74.8430082
   }
 ]
