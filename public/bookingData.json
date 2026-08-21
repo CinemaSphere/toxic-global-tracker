@@ -2674,5 +2674,11 @@
     "country": "IND",
     "lat": 22.3053263,
     "lng": 70.8028377
+  },
+  {
+    "city": "Bhavnagar",
+    "country": "IND",
+    "lat": 21.7718836,
+    "lng": 72.1416449
   }
 ]
