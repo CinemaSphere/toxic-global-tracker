@@ -2938,5 +2938,11 @@
     "country": "IND",
     "lat": 24.578721,
     "lng": 73.6862571
+  },
+  {
+    "city": "Ajmer",
+    "country": "IND",
+    "lat": 26.4691,
+    "lng": 74.639
   }
 ]
