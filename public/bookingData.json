@@ -2884,5 +2884,11 @@
     "country": "IND",
     "lat": 22.2748109,
     "lng": 79.7202522
+  },
+  {
+    "city": "Mandsaur",
+    "country": "IND",
+    "lat": 24.2628148,
+    "lng": 75.385692
   }
 ]
