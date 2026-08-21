@@ -2686,5 +2686,11 @@
     "country": "IND",
     "lat": 21.5220416,
     "lng": 70.4582458
+  },
+  {
+    "city": "Gandhinagar",
+    "country": "IND",
+    "lat": 23.2232877,
+    "lng": 72.6492267
   }
 ]
