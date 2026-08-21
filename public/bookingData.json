@@ -2344,5 +2344,11 @@
     "country": "IND",
     "lat": 20.7618122,
     "lng": 77.1921157
+  },
+  {
+    "city": "Ahmedabad",
+    "country": "IND",
+    "lat": 23.0215374,
+    "lng": 72.5800568
   }
 ]
