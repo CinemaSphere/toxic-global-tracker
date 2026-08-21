@@ -2290,5 +2290,11 @@
     "country": "MLT",
     "lat": 35.9199225,
     "lng": 14.4877119
+  },
+  {
+    "city": "Bengaluru",
+    "country": "IND",
+    "lat": 12.9767936,
+    "lng": 77.590082
   }
 ]
