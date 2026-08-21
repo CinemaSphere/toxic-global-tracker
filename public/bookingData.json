@@ -3322,5 +3322,11 @@
     "country": "IND",
     "lat": 31.9578974,
     "lng": 77.1089232
+  },
+  {
+    "city": "Hamirpur",
+    "country": "IND",
+    "lat": 25.75,
+    "lng": 80
   }
 ]
