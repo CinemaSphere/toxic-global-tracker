@@ -2848,5 +2848,11 @@
     "country": "IND",
     "lat": 24.7560846,
     "lng": 81.3810574
+  },
+  {
+    "city": "Singrauli",
+    "country": "IND",
+    "lat": 24.2431343,
+    "lng": 82.3827672
   }
 ]
