@@ -3562,5 +3562,11 @@
     "country": "IND",
     "lat": 31.6356659,
     "lng": 74.8787496
+  },
+  {
+    "city": "Jalandhar",
+    "country": "IND",
+    "lat": 31.2922312,
+    "lng": 75.5678878
   }
 ]
