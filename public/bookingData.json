@@ -3724,5 +3724,11 @@
     "country": "IND",
     "lat": 28.7166767,
     "lng": 77.890433
+  },
+  {
+    "city": "Mirzapur",
+    "country": "IND",
+    "lat": 24.9316896,
+    "lng": 82.6280163
   }
 ]
