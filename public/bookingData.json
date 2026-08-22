@@ -3790,5 +3790,11 @@
     "country": "IND",
     "lat": 25.6034863,
     "lng": 83.5075888
+  },
+  {
+    "city": "Sultanpur",
+    "country": "IND",
+    "lat": 26.2604732,
+    "lng": 82.2380532
   }
 ]
