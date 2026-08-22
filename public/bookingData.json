@@ -3940,5 +3940,11 @@
     "country": "CAN",
     "lat": 44.648618,
     "lng": -63.5859487
+  },
+  {
+    "city": "West Amherst",
+    "country": "CAN",
+    "lat": 45.8192941,
+    "lng": -64.2333504
   }
 ]
