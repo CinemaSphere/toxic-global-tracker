@@ -3556,5 +3556,11 @@
     "country": "IND",
     "lat": 30.9090157,
     "lng": 75.851601
+  },
+  {
+    "city": "Amritsar",
+    "country": "IND",
+    "lat": 31.6356659,
+    "lng": 74.8787496
   }
 ]
