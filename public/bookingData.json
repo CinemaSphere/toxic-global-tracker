@@ -3928,5 +3928,11 @@
     "country": "CAN",
     "lat": 50.023071,
     "lng": -125.244153
+  },
+  {
+    "city": "Dawson Creek",
+    "country": "CAN",
+    "lat": 55.7605306,
+    "lng": -120.2364453
   }
 ]
