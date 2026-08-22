@@ -3598,5 +3598,11 @@
     "country": "IND",
     "lat": 30.700625,
     "lng": 76.2220763
+  },
+  {
+    "city": "Phagwara",
+    "country": "IND",
+    "lat": 31.2206734,
+    "lng": 75.7696463
   }
 ]
