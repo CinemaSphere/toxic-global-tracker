@@ -3994,5 +3994,11 @@
     "country": "KEN",
     "lat": -0.1029109,
     "lng": 34.7541761
+  },
+  {
+    "city": "Quatre Bornes",
+    "country": "MUS",
+    "lat": -20.2643015,
+    "lng": 57.4800061
   }
 ]
