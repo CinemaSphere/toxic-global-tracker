@@ -3586,5 +3586,11 @@
     "country": "IND",
     "lat": 30.6908804,
     "lng": 76.7114879
+  },
+  {
+    "city": "Pathankot",
+    "country": "IND",
+    "lat": 32.3021899,
+    "lng": 75.6589406
   }
 ]
