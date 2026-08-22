@@ -3772,5 +3772,11 @@
     "country": "IND",
     "lat": 25.4438537,
     "lng": 80.5595237
+  },
+  {
+    "city": "Lalitpur",
+    "country": "IND",
+    "lat": 24.6999688,
+    "lng": 78.51862
   }
 ]
