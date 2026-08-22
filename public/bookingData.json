@@ -3610,5 +3610,11 @@
     "country": "IND",
     "lat": 23.2892414,
     "lng": 74.9794733
+  },
+  {
+    "city": "Hoshiarpur",
+    "country": "IND",
+    "lat": 31.6092942,
+    "lng": 75.8459754
   }
 ]
