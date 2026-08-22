@@ -3970,5 +3970,11 @@
     "country": "CAN",
     "lat": 49.8955367,
     "lng": -97.1384584
+  },
+  {
+    "city": "City of Charlottetown",
+    "country": "CAN",
+    "lat": 46.2354187,
+    "lng": -63.1265388
   }
 ]
