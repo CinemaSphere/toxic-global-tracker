@@ -3886,5 +3886,11 @@
     "country": "CAN",
     "lat": 53.5462055,
     "lng": -113.491241
+  },
+  {
+    "city": "Peace River",
+    "country": "CAN",
+    "lat": 57.4216421,
+    "lng": -117.0658958
   }
 ]
