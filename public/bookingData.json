@@ -3946,5 +3946,11 @@
     "country": "CAN",
     "lat": 45.8192941,
     "lng": -64.2333504
+  },
+  {
+    "city": "Saskatoon",
+    "country": "CAN",
+    "lat": 52.131802,
+    "lng": -106.660767
   }
 ]
