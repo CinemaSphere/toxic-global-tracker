@@ -3550,5 +3550,11 @@
     "country": "IND",
     "lat": 20.4686,
     "lng": 85.8792
+  },
+  {
+    "city": "Ludhiana",
+    "country": "IND",
+    "lat": 30.9090157,
+    "lng": 75.851601
   }
 ]
