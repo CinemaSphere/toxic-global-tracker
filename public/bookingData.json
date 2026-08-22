@@ -3874,5 +3874,11 @@
     "country": "IND",
     "lat": 29.2117573,
     "lng": 78.9617306
+  },
+  {
+    "city": "Rishikesh",
+    "country": "IND",
+    "lat": 30.1086537,
+    "lng": 78.2916193
   }
 ]
