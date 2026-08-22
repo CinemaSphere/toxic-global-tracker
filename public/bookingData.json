@@ -3676,5 +3676,11 @@
     "country": "IND",
     "lat": 27.8761073,
     "lng": 78.1358153
+  },
+  {
+    "city": "Moradabad",
+    "country": "IND",
+    "lat": 28.8796553,
+    "lng": 78.8095335
   }
 ]
