@@ -3922,5 +3922,11 @@
     "country": "CAN",
     "lat": 48.7786872,
     "lng": -123.7080446
+  },
+  {
+    "city": "Campbell River",
+    "country": "CAN",
+    "lat": 50.023071,
+    "lng": -125.244153
   }
 ]
