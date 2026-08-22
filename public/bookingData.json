@@ -3646,5 +3646,11 @@
     "country": "IND",
     "lat": 27.1752554,
     "lng": 78.0098161
+  },
+  {
+    "city": "Prayagraj",
+    "country": "IND",
+    "lat": 25.4381302,
+    "lng": 81.8338005
   }
 ]
