@@ -3976,5 +3976,11 @@
     "country": "CAN",
     "lat": 46.2354187,
     "lng": -63.1265388
+  },
+  {
+    "city": "Amsterdam",
+    "country": "NLD",
+    "lat": 52.3730796,
+    "lng": 4.8924534
   }
 ]
