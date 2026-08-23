@@ -4090,5 +4090,11 @@
     "country": "USA",
     "lat": 38.4087993,
     "lng": -121.3716178
+  },
+  {
+    "city": "Village of Tracy",
+    "country": "CAN",
+    "lat": 45.6735384,
+    "lng": -66.6845417
   }
 ]
