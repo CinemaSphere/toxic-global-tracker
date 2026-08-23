@@ -4048,5 +4048,11 @@
     "country": "IND",
     "lat": 11.0018115,
     "lng": 76.9628425
+  },
+  {
+    "city": "Thanjavur",
+    "country": "IND",
+    "lat": 10.659037,
+    "lng": 79.2014278
   }
 ]
