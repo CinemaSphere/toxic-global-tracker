@@ -4042,5 +4042,11 @@
     "country": "IND",
     "lat": 13.0836939,
     "lng": 80.270186
+  },
+  {
+    "city": "Coimbatore",
+    "country": "IND",
+    "lat": 11.0018115,
+    "lng": 76.9628425
   }
 ]
