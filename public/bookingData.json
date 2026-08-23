@@ -4132,5 +4132,11 @@
     "country": "USA",
     "lat": 38.8769326,
     "lng": -77.0893094
+  },
+  {
+    "city": "Charlottesville",
+    "country": "USA",
+    "lat": 38.029306,
+    "lng": -78.4766781
   }
 ]
