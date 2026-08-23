@@ -4096,5 +4096,11 @@
     "country": "CAN",
     "lat": 45.6735384,
     "lng": -66.6845417
+  },
+  {
+    "city": "Walnut Creek",
+    "country": "USA",
+    "lat": 37.9020731,
+    "lng": -122.0618702
   }
 ]
