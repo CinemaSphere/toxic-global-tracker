@@ -4114,5 +4114,11 @@
     "country": "BHR",
     "lat": 26.2235041,
     "lng": 50.5822436
+  },
+  {
+    "city": "Corpus Christi",
+    "country": "USA",
+    "lat": 27.7635302,
+    "lng": -97.4033191
   }
 ]
