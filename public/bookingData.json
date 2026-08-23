@@ -4102,5 +4102,11 @@
     "country": "USA",
     "lat": 37.9020731,
     "lng": -122.0618702
+  },
+  {
+    "city": "Dar es Salaam",
+    "country": "TZA",
+    "lat": -6.8160837,
+    "lng": 39.2803583
   }
 ]
