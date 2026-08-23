@@ -4150,5 +4150,11 @@
     "country": "USA",
     "lat": 44.919896,
     "lng": -92.9339449
+  },
+  {
+    "city": "Springfield",
+    "country": "USA",
+    "lat": 37.2081729,
+    "lng": -93.2922715
   }
 ]
