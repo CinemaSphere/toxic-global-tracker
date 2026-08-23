@@ -4120,5 +4120,11 @@
     "country": "USA",
     "lat": 27.7635302,
     "lng": -97.4033191
+  },
+  {
+    "city": "Richardson",
+    "country": "USA",
+    "lat": 32.9481789,
+    "lng": -96.7297206
   }
 ]
