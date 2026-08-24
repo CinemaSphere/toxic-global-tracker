@@ -4198,5 +4198,11 @@
     "country": "BEL",
     "lat": 51.2258565,
     "lng": 2.919496
+  },
+  {
+    "city": "Bertrange",
+    "country": "LUX",
+    "lat": 49.601051,
+    "lng": 6.0639946
   }
 ]
