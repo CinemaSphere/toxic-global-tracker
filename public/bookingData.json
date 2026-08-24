@@ -4192,5 +4192,11 @@
     "country": "BEL",
     "lat": 51.2085526,
     "lng": 3.226772
+  },
+  {
+    "city": "Oostende",
+    "country": "BEL",
+    "lat": 51.2258565,
+    "lng": 2.919496
   }
 ]
