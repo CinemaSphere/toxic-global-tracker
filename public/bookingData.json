@@ -4168,5 +4168,11 @@
     "country": "MYS",
     "lat": 1.4581986,
     "lng": 103.7649059
+  },
+  {
+    "city": "Bruxelles - Brussel",
+    "country": "BEL",
+    "lat": 50.8467372,
+    "lng": 4.352493
   }
 ]
