@@ -4282,5 +4282,11 @@
     "country": "LKA",
     "lat": 7.2931208,
     "lng": 80.6350358
+  },
+  {
+    "city": "Sungai Petani",
+    "country": "MYS",
+    "lat": 5.6435195,
+    "lng": 100.4869513
   }
 ]
