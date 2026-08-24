@@ -4162,5 +4162,11 @@
     "country": "USA",
     "lat": 38.9719137,
     "lng": -95.2359403
+  },
+  {
+    "city": "Johor Bahru",
+    "country": "MYS",
+    "lat": 1.4581986,
+    "lng": 103.7649059
   }
 ]
