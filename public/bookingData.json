@@ -4240,5 +4240,11 @@
     "country": "CHE",
     "lat": 47.3744489,
     "lng": 8.5410422
+  },
+  {
+    "city": "Grenchen",
+    "country": "CHE",
+    "lat": 47.1911495,
+    "lng": 7.3967199
   }
 ]
