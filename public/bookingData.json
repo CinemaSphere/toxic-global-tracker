@@ -4174,5 +4174,11 @@
     "country": "BEL",
     "lat": 50.8467372,
     "lng": 4.352493
+  },
+  {
+    "city": "Antwerpen",
+    "country": "BEL",
+    "lat": 51.2211097,
+    "lng": 4.3997081
   }
 ]
