@@ -4318,5 +4318,11 @@
     "country": "KWT",
     "lat": 29.5205177,
     "lng": 47.306211
+  },
+  {
+    "city": "Singapore",
+    "country": "SGP",
+    "lat": 1.3018854,
+    "lng": 103.864019
   }
 ]
